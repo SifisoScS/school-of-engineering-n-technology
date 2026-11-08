@@ -6,9 +6,9 @@ A South African digital-first school concept for developing engineers, technolog
 
 ## Institutional foundation — Phase 0
 
-The working foundation documents are in [`docs/institutional-foundation/`](docs/institutional-foundation/README.md). The current decision register records founding directions D-001 through D-005; the founder approved and closed Phase 0 on 8 November 2026. Legal implementation and detailed policies remain open, and Phase 1 is not authorised.
+The working foundation documents are in [`docs/institutional-foundation/`](docs/institutional-foundation/README.md). The current decision register records founding directions D-001 through D-005; the founder approved and closed Phase 0 on 8 November 2026. Legal implementation and detailed policies remain open.
 
-A proposed Phase 1 plan is in [`docs/phase-1/PHASE_1_PLAN.md`](docs/phase-1/PHASE_1_PLAN.md). It is not authorised, and Phase 1 has not started.
+The Phase 1 plan is in [`docs/phase-1/PHASE_1_PLAN.md`](docs/phase-1/PHASE_1_PLAN.md). The founder authorised Phase 1 under Plan v0.2 on 8 November 2026 (see Section 12 of the plan). Phase 1 is a research, feasibility and institutional-design stage; it does not authorise implementation, entity registration, accreditation applications, enrolment or expenditure.
 
 The Phase 1 Execution Framework is in [`docs/phase-1/PHASE_1_EXECUTION_FRAMEWORK.md`](docs/phase-1/PHASE_1_EXECUTION_FRAMEWORK.md). The founder approved version 0.5 on 8 November 2026 as the execution methodology; the document's own status line shows its text as it stood at approval. Approving the framework does not authorise Phase 1.
 

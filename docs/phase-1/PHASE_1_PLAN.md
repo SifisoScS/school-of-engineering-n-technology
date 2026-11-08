@@ -2,11 +2,11 @@
 
 **Project:** The School of Engineering & Technology  
 **Version:** 0.2  
-**Status:** Proposed — not authorised  
+**Status:** Authorised by the founder on 8 November 2026 (Section 12)  
 **Last reviewed:** 2026-11-08  
 **Phase 0 baseline:** commit `186792a`  
 **Governance baseline:** commit `467ace8`  
-**Approval authority:** Founder — authorisation not given  
+**Approval authority:** Founder — authorisation given 8 November 2026 (Section 12)  
 **Related decisions:** D-001, D-002, D-003, D-004, D-005
 
 ## 1. Purpose and authorisation status
@@ -270,12 +270,12 @@ Complete this record only when the founder makes the decision. Do not fill in a 
 
 | Field | Entry |
 |---|---|
-| Founder decision | Authorise / Authorise with changes / Do not authorise |
-| Plan version authorised | |
-| Founder name | |
-| Signature or recorded confirmation | |
-| Decision date | |
-| Changes or conditions | |
+| Founder decision | Authorise |
+| Plan version authorised | 0.2 |
+| Founder name | Sifiso Cyprian Shezi |
+| Signature or recorded confirmation | Explicit authorisation given in the Claude Code session on 8 November 2026. This records the founder's confirmation; it is not represented as a handwritten or electronic signature. |
+| Decision date | 8 November 2026 |
+| Changes or conditions | Executed under Phase 1 Execution Framework v0.5 (SHA-256 `9b53084607dc68aeaa5c3341df86f0a4d5dcf1f7a2083afbe5118948c55e6754`), approved 8 November 2026. Conditions: (1) By Gate 1, Claude prepares a scoped brief of questions requiring professional legal or regulatory confirmation; any consultation and its cost require separate founder approval. (2) Legal research uses free official sources only; where the current consolidated text cannot be confirmed, the finding records "amendment status unconfirmed"; no registrations or subscriptions. (3) Claude may commit and push routine working records (register updates and session status notes) to the private records repository at the end of each session without separate approval; approved records are never rewritten; nothing is published publicly without founder approval. (4) Minor administrative changes (typographical errors, broken links, formatting, factual metadata) that do not change scope, method, authority or any decision may be approved by the founder in a single message and logged in the private change record; substantive changes follow the full amendment process. |
 
 If the founder selects "Authorise with changes", the specified changes must be incorporated into the plan and the resulting version confirmed before Phase 1 execution begins.
 
