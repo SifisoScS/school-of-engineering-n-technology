@@ -1,7 +1,7 @@
 # Phase 0 — Decision Register
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.5  
+**Version:** 0.6  
 **Status:** Founding-direction decisions recorded; Phase 0 approved and closed by the founder on 2026-11-08  
 **Last reviewed:** 2026-11-08  
 **Approval authority:** Founder — consolidated Phase 0 foundation approved 2026-11-08 (Outcome A; see `PHASE_0_FOUNDER_APPROVAL.md`)  
@@ -86,6 +86,18 @@ Detailed policies, programme designs, legal implementation and platform developm
 
 D-001 through D-005 are recorded as founder-selected directions in the Phase 0 decision history. The exact date of each individual selection is not separately stated in the current decision record. The date shown in this document is its review date, not a claim that all five decisions were made on that date.
 
+## Phase 0 baseline and change control
+
+**Recorded:** 8 November 2026, at the founder's direction.
+
+The approved and closed Phase 0 foundation, as it stands at commit `186792a`, is the baseline for all subsequent work.
+
+1. Preserve this baseline. Do not change the Phase 0 documents unless a genuine correction or a new founder decision requires it.
+2. Record any such correction or decision in this register, with its reason and approval status.
+3. Consider the next stage separately and deliberately, without rushing into implementation.
+
+This record does not authorise Phase 1 or any implementation. Phase 1 remains unauthorised until the founder separately and explicitly approves it.
+
 ## Version history
 
 | Version | Change |
@@ -95,3 +107,4 @@ D-001 through D-005 are recorded as founder-selected directions in the Phase 0 d
 | 0.3 | D-004 layered learner access and D-005 broader institutional ambition recorded |
 | 0.4 | Added concise rationale summaries, provenance clarification, review metadata and explicit separation of decision date from review date |
 | 0.5 | Recorded founder approval of the consolidated Phase 0 foundation (Outcome A, 8 November 2026); D-001 to D-005 unchanged; Phase 1 remains unauthorised |
+| 0.6 | Recorded the founder's direction to preserve the Phase 0 baseline (commit `186792a`) and limit further Phase 0 changes to genuine corrections or new founder decisions; Phase 1 remains unauthorised |
