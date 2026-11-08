@@ -1,7 +1,7 @@
 # Phase 1 — Institutional Feasibility & Readiness: Plan
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.1  
+**Version:** 0.2  
 **Status:** Proposed — not authorised  
 **Last reviewed:** 2026-11-08  
 **Phase 0 baseline:** commit `186792a`  
@@ -15,9 +15,9 @@ Phase 0 answered the question: *What institution are we establishing, and what p
 
 Phase 1 is proposed to answer a different question: *What will it take to establish and operate this institution successfully in South Africa?*
 
-Phase 1 is proposed as a research, feasibility and institutional-design stage. It is not a launch or implementation stage. Its primary outcome would be a verified institutional establishment blueprint.
+Phase 1 is proposed as a research, feasibility and institutional-design stage. It is not a launch or implementation stage. Its primary outcome would be an evidence-based institutional establishment blueprint, with findings, recommendations, assumptions and unresolved decisions clearly distinguished.
 
-**This plan is not authorisation to execute Phase 1.** Phase 1 begins only when the founder completes the authorisation record in Section 12. Until then, Phase 1 remains unauthorised and no work described in this plan should be started.
+**This plan is not authorisation to execute Phase 1.** Phase 1 may begin only when the founder has explicitly selected either "Authorise" or "Authorise with changes" in Section 12, completed the authorisation record, and confirmed any applicable conditions. Selecting "Do not authorise" does not authorise execution. Until an affirmative authorisation is recorded, Phase 1 remains unauthorised and no work described in this plan may begin.
 
 The approved Phase 0 foundation in [`docs/institutional-foundation/`](../institutional-foundation/README.md) remains the controlling baseline. This plan does not change D-001 through D-005 or any Phase 0 document.
 
@@ -63,6 +63,8 @@ Seven connected areas of investigation are proposed.
 **Scope:** South African education and skills needs; prospective learner groups; digital access and connectivity barriers; language, accessibility and affordability; employer and community needs.
 
 **Key questions:** Who would the institution serve first, and what evidence supports that choice?
+
+**Research quality:** Research must distinguish between desk-based evidence, direct engagement with prospective learners and employers, and assumptions that have not been validated. Estimated demand must not be presented as demonstrated demand. This requirement does not itself authorise direct engagement; Section 8 governs external engagement.
 
 **Builds on:** `ACCESSIBILITY_AND_INCLUSION.md`, `INSTITUTIONAL_MANDATE.md`.
 
@@ -118,14 +120,14 @@ No resources should be spent on building a digital platform before it is underst
 
 ## 5. Execution sequence
 
-| Stage | Purpose | Output |
+| Stage | Work involved | Output |
 |---|---|---|
-| 1 — Establish the evidence base | Gather authoritative information, identify knowledge gaps and establish the South African institutional context. | Research and Evidence Register |
-| 2 — Test institutional feasibility | Investigate legal, regulatory, academic, learner, technology and financial feasibility. | Seven workstream reports |
-| 3 — Design the institution | Combine the findings into a coherent operating model and establishment architecture. | Institutional Establishment Blueprint |
-| 4 — Founder review and decision | Present findings, recommendations, risks, costs, dependencies and strategic choices. | Phase 1 Final Assessment and Founder Decision Record |
+| 1 — Establish the evidence base | Gather authoritative information, establish the institutional context and identify knowledge gaps. | Research and Evidence Register |
+| 2 — Test institutional feasibility | Complete Workstreams 01–06. | Six feasibility reports |
+| 3 — Design the institution | Complete Workstream 07 using the findings from Workstreams 01–06. | Institutional Establishment Blueprint |
+| 4 — Founder review and decision | Present the consolidated findings, recommendations, risks, costs, dependencies and strategic choices. | Phase 1 Final Assessment and Founder Decision Record |
 
-Each stage ends at an approval gate (Section 9).
+Workstream 07 is completed in Stage 3 only; it is not a separate Stage 2 deliverable. Each stage ends at an approval gate (Section 9).
 
 ## 6. Research standards
 
@@ -142,15 +144,29 @@ Every finding must be classified as one of:
 
 This classification is intended to prevent assumptions from quietly becoming institutional policy.
 
+A finding classified as Verified represents a finding supported by reliable evidence. It does not automatically mean that the institution has approved or adopted the finding as policy or an institutional decision.
+
 ### Sources
 
 - Prefer primary South African official sources, for example DHET, SAQA, CHE, QCTO, ECSA, CIPC, SARS, the Department of Social Development and the Information Regulator, and the legislation they administer.
 - Cite each source with its title, URL or reference, and the date it was accessed. Regulatory information changes; undated findings should not be relied on.
+- Where legislation, regulations or official guidance are relied upon, record the specific provision or section, its applicable version or effective date, and any relevant amendments. Where official sources conflict or appear outdated, record the discrepancy rather than silently selecting one interpretation.
 - Treat secondary sources (news, commentary, other institutions' practice) as context only. Do not use them to verify a regulatory requirement.
 
 ### Research and Evidence Register
 
-Findings are recorded in a register with these fields: ID, finding, evidence class, source, date accessed, workstream, and whether professional confirmation is needed.
+Findings are recorded in a register with these fields:
+
+1. ID;
+2. finding;
+3. evidence class;
+4. source;
+5. source date or version;
+6. specific reference, such as a legislative section, regulation, or official document page or paragraph;
+7. date accessed;
+8. workstream;
+9. limitations or uncertainty; and
+10. whether professional confirmation is needed.
 
 ### Limits of the research
 
@@ -162,10 +178,10 @@ Phase 1 research may be carried out by an AI research agent. Its findings are no
 |---|---|---|
 | 01 Legal and Regulatory | — | 02, 04, 05, 06, 07 |
 | 02 Academic Architecture | 01, 03 | 04, 06, 07 |
-| 03 Learner and Societal Needs | — | 02, 04, 07 |
+| 03 Learner and Societal Needs | — | 02, 04, 06, 07 |
 | 04 Delivery Model | 01, 02, 03 | 06, 07 |
 | 05 Governance and Operating Model | 01 | 06, 07 |
-| 06 Financial and Resource Feasibility | 01, 02, 04, 05 | 07 |
+| 06 Financial and Resource Feasibility | 01, 02, 03, 04, 05 | 07 |
 | 07 Establishment Roadmap | 01–06 | Founder decision |
 
 ## 8. Boundaries — what Phase 1 must not do
@@ -186,6 +202,12 @@ There is an important distinction between designing an institution and establish
 
 These activities require separate decisions and authorisations.
 
+### External research engagement
+
+No surveys, interviews, consultations, requests for information or other direct engagement with prospective learners, employers, educational institutions, community organisations or other external parties may be conducted without specific founder approval. Any approved engagement must have an agreed purpose, scope, method and appropriate privacy and safeguarding arrangements.
+
+This restriction applies even after Phase 1 is authorised. Desk-based research remains within the proposed scope.
+
 ## 9. Approval gates
 
 | Gate | When | Founder decision |
@@ -203,7 +225,11 @@ These activities require separate decisions and authorisations.
 - **Option C — Redesign the institutional model.** The findings show that important parts of the proposed model need reconsideration.
 - **Option D — Pause further development.** The institution is not ready to proceed.
 
-None of these options by itself authorises implementation. Any next phase requires its own proposal and authorisation.
+None of these options by itself authorises implementation. Any subsequent phase requires its own proposal and separate founder authorisation.
+
+### Gate rule
+
+No approval gate is passed automatically. The founder must explicitly record the decision at each gate before the next stage may begin. Acceptance of a deliverable does not automatically constitute approval of every recommendation contained within it.
 
 ## 10. Completion criteria
 
@@ -219,6 +245,8 @@ Phase 1 is complete only when the following evidence exists:
 | Financial viability | Cost estimates and sustainability scenarios |
 | Establishment strategy | Prioritised roadmap with dependencies and risks |
 
+**Completion does not imply viability or approval.** Phase 1 is complete when the required investigations and deliverables have been produced, their evidence and limitations have been documented, and unresolved questions have been identified. Findings may demonstrate feasibility, conditional feasibility, infeasibility or insufficient evidence. A negative or inconclusive finding does not prevent Phase 1 from being completed.
+
 ## 11. Phase 1 governance
 
 | Item | Proposed position |
@@ -232,6 +260,10 @@ Phase 1 is complete only when the following evidence exists:
 | Completion approval | Separate founder decision |
 | Deliverable location | `docs/phase-1/` |
 
+### Role and authority of the execution agent
+
+Claude acts as a research and documentation agent under the founder's direction. Its authority is limited to activities explicitly authorised under this plan. It may investigate, analyse, organise evidence and prepare recommendations, but may not make institutional decisions, approve its own recommendations, create external commitments, incur expenditure, or authorise progression between stages. All founder decisions and approvals remain subject to explicit founder confirmation.
+
 ## 12. Founder authorisation record
 
 Complete this record only when the founder makes the decision. Do not fill in a decision, name, confirmation or date on the founder's behalf.
@@ -239,15 +271,19 @@ Complete this record only when the founder makes the decision. Do not fill in a 
 | Field | Entry |
 |---|---|
 | Founder decision | Authorise / Authorise with changes / Do not authorise |
+| Plan version authorised | |
 | Founder name | |
 | Signature or recorded confirmation | |
 | Decision date | |
 | Changes or conditions | |
 
-Until this record is completed, Phase 1 remains unauthorised.
+If the founder selects "Authorise with changes", the specified changes must be incorporated into the plan and the resulting version confirmed before Phase 1 execution begins.
+
+Until an affirmative authorisation is recorded, Phase 1 remains unauthorised.
 
 ## 13. Version history
 
 | Version | Change |
 |---|---|
 | 0.1 | Initial proposed Phase 1 plan, prepared at the founder's request; not authorised |
+| 0.2 | Incorporated the founder-approved Phase 1 review amendments: affirmative-authorisation rule; Workstream 03 research-quality requirement; Stage 2/3 alignment with Workstreams 01–06 and 07; expanded source and register standards; Workstream 06 dependency on 03; external research engagement restriction; gate rule; completion-without-viability clause; execution-agent role; plan-version field. Still proposed and not authorised |
