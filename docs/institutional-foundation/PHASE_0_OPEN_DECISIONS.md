@@ -1,10 +1,10 @@
 # Phase 0 — Open Decisions
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.1  
-**Status:** Decision papers — no new decisions made
+**Version:** 0.2  
+**Status:** Active decision papers — D-001 to D-003 recorded
 
-This document gathers the remaining decisions identified during Phase 0. It is intended to make the next decisions efficient and traceable. Options below are prompts for consideration, not recommendations already accepted.
+This document gathers the remaining Phase 0 decisions. Options are prompts for consideration, not decisions already accepted.
 
 ## Confirmed decisions
 
@@ -12,22 +12,15 @@ This document gathers the remaining decisions identified during Phase 0. It is i
 |---|---|---|
 | D-001 | Institutional independence | Independent, privately founded South African educational institution |
 | D-002 | Educational philosophy | Integrated approach combining academic knowledge, practical project-based learning, research and independent thinking |
+| D-003 | Legal and operating model | Hybrid commercial and public-benefit institutional direction; exact legal implementation remains open |
 
-## D-003 — Legal and operating model
+## D-003 — Implementation boundary
 
-**Question:** What legal and operating model should support the institution's independent founding direction?
+The hybrid direction has been selected. The legal form and operating arrangements have not.
 
-Possible directions to investigate:
+The institution must compare viable single-entity and multi-entity structures, and any suitable alternative, through South African professional legal, tax, accounting and education-regulatory advice. No entity structure, tax status, public-benefit approval or implementation arrangement is authorised by the decision.
 
-- **Private commercial model:** an operating entity structured to conduct the institution's activities commercially.
-- **Non-profit model:** an appropriate non-profit legal structure with a public-benefit or educational purpose.
-- **Hybrid model:** separate but coordinated entities for commercial activities and public-benefit activities, where legally and operationally appropriate.
-
-The phrase "privately founded" does not by itself determine whether the institution should be commercial, non-profit or hybrid.
-
-Before deciding, investigate ownership and control, funding, revenue, reinvestment, tax, governance duties, education-provider requirements and the implications of each structure. Obtain South African legal, tax and regulatory advice.
-
-**Status:** Open. No legal form selected.
+See `D-003_HYBRID_MODEL_DECISION.md` and `LEGAL_AND_OPERATING_MODEL.md`.
 
 ## D-004 — Learner access model
 

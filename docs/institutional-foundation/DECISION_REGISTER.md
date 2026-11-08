@@ -1,7 +1,7 @@
 # Phase 0 — Decision Register
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.1  
+**Version:** 0.2  
 **Status:** Active working register
 
 This register records confirmed founding decisions and prevents proposals from being mistaken for approved institutional policy.
@@ -11,15 +11,24 @@ This register records confirmed founding decisions and prevents proposals from b
 | ID | Decision | Outcome | Status |
 |---|---|---|---|
 | D-001 | Institutional independence | Independent, privately founded South African educational institution | Confirmed |
-| D-002 | Educational philosophy | Integrated model combining academic knowledge, practical project-based education, research and independent thinking | Confirmed |
+| D-002 | Educational philosophy | Integrated approach combining academic knowledge, practical project-based learning, research and independent thinking | Confirmed |
+| D-003 | Legal and operating model | Hybrid commercial and public-benefit institutional direction | Direction confirmed; legal implementation open |
+
+## D-003 clarification
+
+The hybrid direction is selected. The exact legal form, number of entities, ownership/control arrangements, tax position, public-benefit status and operating agreements have not been selected or approved.
+
+A professional South African legal, tax, accounting and education-regulatory assessment is required before implementation. See:
+
+- `D-003_HYBRID_MODEL_DECISION.md`
+- `LEGAL_AND_OPERATING_MODEL.md`
 
 ## Open decisions
 
 | ID | Decision | Current status |
 |---|---|---|
-| D-003 | Legal and operating model | Open — private, non-profit or hybrid arrangements have not been selected |
 | D-004 | Learner access model | Open — admissions, prerequisites and open-access boundaries are not yet defined |
-| D-005 | Long-term institutional ambition | Open — scope and structure of future schools and institutional bodies require confirmation |
+| D-005 | Institutional ambition | Open — scope and structure of future schools and institutional bodies require confirmation |
 | D-006 | Academic and qualification framework | Open — to be developed with regulatory requirements in view |
 | D-007 | Governance model | Open — authority, oversight and accountability arrangements require design |
 | D-008 | Physical campus | Open — location, facilities, funding and timing are not determined |
@@ -46,4 +55,5 @@ These are directions for planning, not evidence that the future stages have been
 
 | Version | Change |
 |---|---|
-| 0.1 | Initial foundation documents created after confirmation of D-001 and D-002 |
+| 0.1 | Initial foundation decisions D-001 and D-002 recorded |
+| 0.2 | D-003 hybrid commercial and public-benefit direction confirmed; legal implementation explicitly left open |
