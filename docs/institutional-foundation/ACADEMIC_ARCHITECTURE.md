@@ -1,35 +1,37 @@
 # Academic Architecture
 
 **Institution:** The School of Engineering & Technology  
-**Version:** 0.2  
-**Status:** Proposed architecture — not an approved academic structure
+**Version:** 0.3  
+**Status:** Proposed architecture — not an approved academic structure  
+**Last reviewed:** 2026-11-08  
+**Related decisions:** D-002, D-004, D-005
 
 ## 1. Purpose
 
-This document proposes a high-level way to organise academic activity. It does not approve departments, curricula, programmes, admission rules or qualifications.
+This document proposes a high-level way to organise possible academic activity. It does not approve departments, curricula, programmes, admission rules or qualifications.
 
-The academic architecture must implement the integrated educational philosophy: academic knowledge, practical application, research and independent thinking.
+The academic architecture must reflect D-002 by integrating academic knowledge, practical application, research and independent thinking. It must also respect the layered learner-access direction in D-004 and the conditional, long-term expansion ambition in D-005.
 
 ## 2. Proposed hierarchy
 
-The following is a planning model:
+The following is a planning model only:
 
 ```text
-Institution
-└── School
+Proposed Institution
+└── Possible School
     └── Department or discipline area
         └── Programme or learning pathway
             └── Modules, subjects or learning units
                 └── Lessons, activities and assessments
 ```
 
-The final terminology and structure should be confirmed through academic governance and regulatory analysis.
+The final terminology and structure should be confirmed through appropriate academic governance and regulatory analysis. The hierarchy does not establish that any school, department or programme currently exists or has been approved.
 
-## 3. Initial school
+## 3. Initial academic focus
 
 ### School of Engineering & Technology
 
-Potential discipline areas for investigation:
+The School of Engineering & Technology is the first intended academic focus under D-005. Potential discipline areas for investigation include:
 
 - Computing and Computer Science
 - Software Engineering
@@ -44,9 +46,21 @@ Potential discipline areas for investigation:
 
 These are candidate areas, not established departments or approved programmes.
 
-## 4. Programme design principles
+## 4. Learner access and progression principles
 
-Each future programme should define:
+Consistent with D-004, the proposed academic model distinguishes between foundational learning and structured programmes.
+
+- Foundational learning is intended to be broadly accessible.
+- Structured programmes may define transparent, relevant and proportionate entry and progression requirements.
+- Requirements should be connected to the knowledge, competence, safety or regulatory demands of the specific learning activity.
+- Any requirements should be stated clearly before a learner commits to a programme.
+- Regulated programmes and qualifications must follow the applicable statutory, quality-assurance, registration and accreditation requirements.
+
+This section records a direction for future design. It does not establish detailed admissions, age, fees, bursary, recognition-of-prior-learning, assessment or progression policies.
+
+## 5. Programme design principles
+
+Each future programme proposal should define:
 
 1. its purpose and intended learners;
 2. entry assumptions and prerequisites;
@@ -56,12 +70,12 @@ Each future programme should define:
 6. research and evidence skills appropriate to the level;
 7. assessment methods and standards;
 8. learning resources and offline requirements;
-9. educator, supervision and safety requirements;
+9. educator, supervision and safety requirements; and
 10. progression routes and any external recognition requirements.
 
 A programme should not be published as an accredited or recognised qualification unless its status has been verified.
 
-## 5. Integrated learning cycle
+## 6. Integrated learning cycle
 
 A possible common learning cycle is:
 
@@ -74,29 +88,33 @@ A possible common learning cycle is:
 
 The exact balance will vary by discipline. Practical work in a regulated or safety-critical field requires appropriate facilities, supervision and safety controls.
 
-## 6. Academic quality
+## 7. Academic quality
 
-Before a programme is launched, the institution should establish a documented review process covering:
+Before a programme is proposed for launch, the institution would need a documented review process covering:
 
 - curriculum coherence and level;
 - accuracy and currency of learning content;
 - educator and assessor competence;
 - assessment validity and consistency;
-- student support and feedback;
+- learner support and feedback;
 - practical resource adequacy;
 - health and safety where relevant;
 - accessibility and offline usability; and
 - compliance with applicable requirements.
 
-## 7. Research relationship
+The existence of this proposed list does not mean that an academic quality system has been established.
 
-Research should be progressively integrated into learning. Early activities may focus on observation, source evaluation, experiments and evidence-based reports. More advanced activity may involve original investigation, collaboration and publication, subject to capacity and ethical oversight.
+## 8. Research relationship
 
-## 8. Future schools
+Research should be progressively integrated into learning. Early activities may focus on observation, source evaluation, experiments and evidence-based reports. More advanced activity may involve original investigation, collaboration and publication, subject to actual capacity, ethical oversight and applicable approvals.
 
-A School of Politics & Governance has been identified as a possible future addition. It is not part of the proposed initial focus, and this unapproved architecture does not authorise its establishment. Its mandate, academic fields, relationship to the institution and governance arrangements require separate design and approval.
+## 9. Possible future schools
 
-## 9. Decisions required
+D-005 identifies a School of Politics & Governance as a possible future addition. It is not part of the initial Engineering & Technology focus and is not authorised for establishment by this document.
+
+Its mandate, academic fields, relationship to the wider institution, governance, staffing, resources and regulatory position require separate design, feasibility assessment and explicit approval. No other future school is approved by this proposed architecture.
+
+## 10. Decisions required
 
 The following remain open:
 
@@ -109,6 +127,8 @@ The following remain open:
 - external accreditation and professional council pathways; and
 - the final school and department structure.
 
-## 10. Approval status
+## 11. Phase and approval status
 
-This document is an architectural proposal for discussion. It must be reviewed and approved through the institution's future academic governance process before being treated as policy.
+This document is an architectural proposal for discussion. It is not a delivery plan, programme approval or authority to enrol learners.
+
+Phase 0 remains open pending founder review and explicit approval of the consolidated institutional foundation. No Phase 1 work or implementation is authorised by this document. Any future academic structure must be reviewed and approved through a properly established governance process before being treated as policy.

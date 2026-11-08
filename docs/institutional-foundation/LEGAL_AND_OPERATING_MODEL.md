@@ -1,19 +1,34 @@
 # Legal and Operating Model
 
-**Institution:** The School of Engineering & Technology  
-**Version:** 0.1  
-**Status:** Options and design requirements — not legal advice or an adopted structure  
-**Related decision:** D-003
+**Institutional reference:** The School of Engineering & Technology and the wider proposed institution  
+**Version:** 0.2  
+**Status:** Phase 0 planning brief — options and design requirements; not legal advice or an adopted structure  
+**Last reviewed:** 2026-11-08  
+**Related decisions:** D-001, D-002, D-003, D-004, D-005
 
-## 1. Purpose
+## 1. Purpose and authority boundary
 
-This document translates the confirmed D-003 direction into a structured brief for legal, tax, accounting and education-regulatory review.
+This document translates the confirmed D-003 direction into a structured brief for possible future legal, tax, accounting and education-regulatory review.
 
 The selected direction is a **hybrid commercial and public-benefit institution**. The exact legal implementation remains undecided.
 
-## 2. Intended operating outcomes
+This is Phase 0 planning only. It does not authorise Phase 1, incorporation, expenditure, commencement of operations, the appointment of office-bearers, or the implementation of any legal or operating structure.
 
-The future model should enable the institution to:
+## 2. Founding constraints for any future option assessment
+
+Any option considered must preserve the following confirmed directions:
+
+- **D-001 — Institutional independence:** the proposed institution's independent founding identity and purpose must be protected.
+- **D-002 — Educational philosophy:** the operating model must be compatible with integrated academic knowledge, practical project-based learning, research and independent thinking.
+- **D-003 — Hybrid direction:** commercial sustainability and a defined public-benefit purpose are the selected direction; no legal form or entity count is selected.
+- **D-004 — Learner access:** foundational learning is intended to be broadly accessible; structured learning may use transparent, relevant and proportionate requirements.
+- **D-005 — Institutional ambition:** the wider ambition is multidisciplinary over time, but future schools, research structures and a physical campus remain conditional and unapproved.
+
+These are constraints for analysis, not proof that the corresponding arrangements or capabilities currently exist.
+
+## 3. Intended operating outcomes
+
+A future model should be assessed for its ability to:
 
 - operate sustainably over the long term;
 - develop and maintain educational resources and technology;
@@ -23,15 +38,18 @@ The future model should enable the institution to:
 - protect academic integrity and institutional independence; and
 - account transparently for money, assets, responsibilities and outcomes.
 
-## 3. Structural options to assess
+These are intended outcomes, not established operating capabilities.
 
-The professional review should compare at least the following possibilities.
+## 4. Structural options to assess
+
+A future professional review may compare at least the following possibilities.
 
 ### Option A — One legal entity with a hybrid activity model
 
 A single appropriately constituted entity undertakes both revenue-generating activities and defined public-benefit activities, where its legal form, governing documents, tax position and applicable rules permit this.
 
 Questions to assess:
+
 - Is the proposed mix of activities permitted for the chosen legal form?
 - How should commercial and public-benefit activities be separately budgeted and reported?
 - What restrictions apply to the use of income, assets and surpluses?
@@ -43,6 +61,7 @@ Questions to assess:
 Two or more legally distinct entities undertake different functions under documented governance and contractual arrangements. For example, one entity may conduct commercial operations while another undertakes defined public-benefit activities, if appropriate and lawful.
 
 Questions to assess:
+
 - What legal forms are suitable for each function?
 - How will control, independence and accountability work?
 - How will conflicts of interest and related-party transactions be managed?
@@ -52,13 +71,13 @@ Questions to assess:
 
 ### Option C — Alternative structure recommended by professional advisers
 
-Advisers may identify another lawful and more suitable structure. Any alternative must still satisfy the institutional requirements in this document and be returned for founder approval.
+Advisers may identify another lawful and more suitable structure. Any alternative must still satisfy the institutional constraints in this document and be returned to the founder for consideration.
 
 **No option is selected in this document.** D-003 confirms the hybrid direction only.
 
-## 4. Functional separation
+## 5. Functional separation
 
-Regardless of the eventual legal structure, the operating model should clearly identify and account for these functions:
+Regardless of the eventual legal structure, a future operating model should clearly identify and account for these functions:
 
 | Function | Required clarity |
 |---|---|
@@ -74,9 +93,9 @@ Regardless of the eventual legal structure, the operating model should clearly i
 
 Functional separation does not necessarily require separate legal entities. The final design must be based on professional advice.
 
-## 5. Financial principles to evaluate
+## 6. Financial principles to evaluate
 
-The institution should develop controls that provide:
+A future model should be assessed for controls that provide:
 
 - documented budgets and approval limits;
 - accurate records for income, expenditure, assets and liabilities;
@@ -89,7 +108,7 @@ The institution should develop controls that provide:
 
 No revenue-sharing, donation, grant, subsidy or surplus-distribution arrangement is approved by this document.
 
-## 6. Governance requirements
+## 7. Governance requirements
 
 The final model should specify:
 
@@ -101,9 +120,9 @@ The final model should specify:
 - how financial and operational performance is reported; and
 - how disputes, restructuring or closure are managed.
 
-The governance framework must be consistent with the final legal forms and applicable South African law.
+Any governance proposal must be consistent with the final legal forms and applicable South African law. The current Governance Framework is a design document, not an adopted constitution or established governance structure.
 
-## 7. Regulatory and professional review
+## 8. Regulatory and professional review
 
 Obtain advice from suitably qualified South African professionals on:
 
@@ -116,11 +135,11 @@ Obtain advice from suitably qualified South African professionals on:
 - privacy and data protection;
 - consumer protection and learner-facing contracts;
 - financial reporting and audit obligations; and
-- any requirements arising from physical workshops, laboratories or campus facilities.
+- requirements arising from any future physical workshops, laboratories or campus facilities.
 
 The institution must not assume that a public-benefit purpose automatically confers a particular legal status, tax exemption or permission to provide regulated education.
 
-## 8. Required decision pack before implementation
+## 9. Required decision pack before any implementation proposal
 
 The legal and operating model should not be treated as final until the founder has received:
 
@@ -130,10 +149,12 @@ The legal and operating model should not be treated as final until the founder h
 4. draft governance and inter-entity arrangements, if relevant;
 5. a tax and regulatory implications summary;
 6. estimated establishment and ongoing compliance costs; and
-7. a risk register and implementation sequence.
+7. a risk register and proposed implementation sequence.
 
-## 9. Approval boundary
+Receipt of this pack would support a later decision; it would not itself authorise implementation.
 
-This is a planning brief. It does not incorporate an entity, establish a legal relationship, authorise expenditure, approve a tax position or grant authority to offer qualifications.
+## 10. Approval boundary
 
-The final structure requires explicit founder approval after professional review.
+This is a Phase 0 planning brief. It does not incorporate an entity, establish a legal relationship, authorise expenditure, approve a tax position, confer public-benefit status or grant authority to offer qualifications.
+
+No Phase 1 work is authorised by this document. Any final structure requires professional review and explicit founder approval before implementation is considered.
