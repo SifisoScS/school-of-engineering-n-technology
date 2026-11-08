@@ -2,8 +2,11 @@
 
 **Name:** The School of Engineering & Technology  
 **Country focus:** South Africa  
-**Version:** 0.2  
-**Status:** Proposed identity and long-term institutional direction
+**Version:** 0.3  
+**Status:** Proposed identity and long-term institutional direction; Phase 0 founder approval pending  
+**Last reviewed:** 2026-11-08  
+**Approval authority:** Founder — consolidated Phase 0 foundation approval pending  
+**Related decisions:** D-001, D-002, D-003, D-004, D-005
 
 ## 1. Institutional description
 
@@ -23,6 +26,8 @@ The institution is intended to be:
 - **South African in focus:** responding to South African needs and contexts, with potential to serve learners elsewhere in Africa.
 - **Multidisciplinary in long-term ambition:** beginning with engineering and technology, with a possible future School of Politics & Governance subject to separate approval.
 
+These are institutional directions and aspirations, not claims that all associated capabilities, facilities or operating arrangements currently exist.
+
 ## 3. Initial school
 
 ### School of Engineering & Technology
@@ -33,20 +38,34 @@ These are proposed areas, not approved departments or accredited programmes.
 
 ## 4. Possible future school
 
-A **School of Politics & Governance** has been identified as a possible future addition. Its mandate, academic scope, governance, programmes and launch conditions have not been approved.
+A **School of Politics & Governance** has been identified as a possible future addition. Its mandate, academic scope, governance, programmes and launch conditions have not been approved. It requires separate development, feasibility assessment and explicit institutional approval.
 
 ## 5. Intended learners and access
 
-Foundational learning resources are intended to be broadly accessible. Structured programmes may have transparent and proportionate prerequisites. Regulated programmes and qualifications must meet applicable statutory and accreditation requirements.
+Foundational learning resources are intended to be broadly accessible. Structured programmes may have transparent, relevant and proportionate prerequisites. Regulated programmes and qualifications must meet applicable statutory and accreditation requirements.
 
 Detailed admissions, age, language, support and fee policies remain to be developed.
 
 ## 6. Delivery identity
 
-The first stage is intended to provide online and offline learning. The future physical stage may include classrooms, engineering workshops, laboratories, research spaces and other facilities, subject to feasibility and regulatory requirements.
+The initial institutional direction is digital-first, with online and offline learning as design goals. A future physical stage may include classrooms, engineering workshops, laboratories, research spaces and other facilities, subject to feasibility and regulatory requirements.
+
+No physical campus project, opening date, facilities programme or delivery capability is approved by this identity document.
 
 ## 7. Institutional language
 
-While it remains a proposal, prefer accurate descriptions such as "proposed independent educational institution", "digital-first institutional concept", "initial School of Engineering & Technology", "proposed areas of study" and "long-term multidisciplinary institutional ambition".
+While it remains a proposal, prefer accurate descriptions such as:
+
+- "proposed independent educational institution";
+- "digital-first institutional concept";
+- "initial School of Engineering & Technology";
+- "proposed areas of study"; and
+- "long-term multidisciplinary institutional ambition".
 
 Do not imply that the institution is registered, accredited, operating a campus, offering approved qualifications or authorised to confer professional status unless verified.
+
+## 8. Phase and approval boundary
+
+This document summarises the proposed institutional identity and the directions recorded in D-001 through D-005. It does not constitute founder approval of the complete Phase 0 foundation, approval to launch programmes or authority to begin Phase 1.
+
+Phase 0 remains open until the founder explicitly approves the consolidated foundation. No implementation authority is created by this document.

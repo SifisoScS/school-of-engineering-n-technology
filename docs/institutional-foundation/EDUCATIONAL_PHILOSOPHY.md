@@ -1,8 +1,11 @@
 # Educational Philosophy
 
 **Institution:** The School of Engineering & Technology  
-**Version:** 0.1  
-**Status:** Foundational direction selected; detailed framework to be developed
+**Version:** 0.2  
+**Status:** Foundational direction confirmed; detailed framework to be developed  
+**Last reviewed:** 2026-11-08  
+**Approval authority:** Founder — consolidated Phase 0 foundation approval pending  
+**Related decisions:** D-002, D-004
 
 ## 1. Selected approach
 
@@ -14,6 +17,8 @@ The institution will adopt an integrated educational approach combining:
 4. independent thinking.
 
 These elements should reinforce one another rather than operate as separate or competing models.
+
+This is the selected educational direction recorded in D-002. It is a founding philosophy, not approval to launch a programme, establish an academic department, enrol learners or begin Phase 1.
 
 ## 2. Academic knowledge
 
@@ -71,7 +76,20 @@ Local relevance should strengthen learning, not replace rigorous academic standa
 
 The educational model should support learning in environments where connectivity is inconsistent or expensive. Learning materials should be designed for accessible online use and, where technically appropriate, offline use.
 
-## 9. Matters still to be designed
+These are design intentions. They do not claim that a platform or offline learning capability has already been implemented or verified.
+
+## 9. Learner access
+
+The educational philosophy must be applied consistently with D-004, the selected layered learner-access direction:
+
+- foundational learning resources are intended to be broadly accessible;
+- structured programmes may apply transparent, relevant and proportionate entry and progression requirements;
+- advanced or specialist learning may require demonstrated prior knowledge, competence or experience; and
+- regulated programmes and qualifications must follow applicable statutory and accreditation requirements.
+
+This philosophy does not establish detailed admissions, age, fee, bursary, recognition-of-prior-learning or learner-support policies. Those matters remain open for separate design and approval.
+
+## 10. Matters still to be designed
 
 This philosophy does not yet define:
 
@@ -84,3 +102,9 @@ This philosophy does not yet define:
 - accreditation and professional recognition pathways.
 
 These require separate academic and regulatory work.
+
+## 11. Approval and phase boundary
+
+D-002 confirms the educational direction only. This document is not a programme approval, curriculum approval, assessment policy, operational instruction or authority to enrol learners.
+
+Phase 0 remains open pending explicit founder approval of the consolidated institutional foundation. This philosophy does not authorise Phase 1 or implementation.

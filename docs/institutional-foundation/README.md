@@ -3,16 +3,22 @@
 **Project:** The School of Engineering & Technology  
 **Jurisdictional focus:** South Africa  
 **Phase:** 0 — Institutional Foundation  
-**Version:** 0.4 (working draft)  
-**Status:** Founding-direction decisions recorded; Phase 0 review remains
+**Version:** 0.5 (working draft)  
+**Status:** Founding-direction decisions recorded; Phase 0 review and founder approval remain pending  
+**Last reviewed:** 2026-11-08  
+**Approval authority:** Founder — consolidated Phase 0 foundation approval pending
 
 ## Purpose
 
 This directory contains the Phase 0 founding documents for the proposed independent, privately founded South African educational institution. Read the decision record and decision papers first, then the open-decision and supporting identity, access, evolution, philosophy and charter documents. Decision directions do not by themselves approve implementation.
 
+## Document control
+
+The proposed [Document Control Standard](DOCUMENT_CONTROL_STANDARD.md) describes consistent metadata, status language, versioning, decision provenance and approval records. It remains a proposed convention pending founder approval.
+
 ## Recommended reading order
 
-1. **[Decision Register](DECISION_REGISTER.md)** — start here for confirmed founding directions D-001 through D-005, their boundaries, and remaining foundation work.
+1. **[Decision Register](DECISION_REGISTER.md)** — start here for confirmed founding directions D-001 through D-005, their rationale summaries, boundaries and remaining foundation work.
 2. **[D-003 Hybrid Model Decision](D-003_HYBRID_MODEL_DECISION.md)** and **[Legal and Operating Model](LEGAL_AND_OPERATING_MODEL.md)** — record the hybrid direction and the requirement for professional review; no legal entity or structure is selected.
 3. **[D-004 Learner Access Decision](D-004_LEARNER_ACCESS_DECISION.md)** — records layered access: broadly accessible foundational learning and transparent programme-specific requirements for structured learning.
 4. **[D-005 Institutional Ambition Decision](D-005_INSTITUTIONAL_AMBITION_DECISION.md)** — records the broader multidisciplinary ambition, with Engineering & Technology first and possible future schools subject to separate approval.
@@ -21,11 +27,12 @@ This directory contains the Phase 0 founding documents for the proposed independ
 7. **[Accessibility & Inclusion](ACCESSIBILITY_AND_INCLUSION.md)** — records foundational design commitments and implementation matters that remain pending.
 8. **[Educational Philosophy](EDUCATIONAL_PHILOSOPHY.md)**, **[Academic Architecture](ACADEMIC_ARCHITECTURE.md)**, **[Governance Framework](GOVERNANCE_FRAMEWORK.md)**, **[Institutional Mandate](INSTITUTIONAL_MANDATE.md)** and **[Founding Charter](FOUNDING_CHARTER.md)** — supporting foundational documents; read their status labels and decision boundaries.
 9. **[Phase 0 Final Review](PHASE_0_FINAL_REVIEW.md)** — consolidated consistency findings, professional-advice questions, corrections made, and remaining items for founder consideration. This review is not itself approval.
+10. **[Document Control Standard](DOCUMENT_CONTROL_STANDARD.md)** — proposed metadata, version and approval-record convention.
 
 ## Current confirmed decisions
 
-- **D-001 — Institutional independence:** The institution is intended to be independently founded and governed, with its own institutional identity, leadership, academic philosophy, and governance arrangements.
-- **D-002 — Educational philosophy:** The institution will use an integrated approach combining academic knowledge, practical project-based learning, research, and independent thinking.
+- **D-001 — Institutional independence:** The institution is intended to be independently founded and governed, with its own institutional identity, leadership, academic philosophy and governance arrangements.
+- **D-002 — Educational philosophy:** The institution will use an integrated approach combining academic knowledge, practical project-based learning, research and independent thinking.
 - **D-003 — Legal and operating model:** The hybrid commercial and public-benefit institutional direction is confirmed; the exact legal implementation remains open.
 - **D-004 — Learner access model:** Layered access is the confirmed direction; detailed policy remains open.
 - **D-005 — Institutional ambition:** A broader multidisciplinary education, research and innovation institution is the long-term direction; expansion approvals remain open.
@@ -40,4 +47,4 @@ The institution's legal form, registration pathway, qualification strategy, acad
 
 ## Change control
 
-Keep this document set version-controlled. Record substantive decisions and changes in `DECISION_REGISTER.md`, preserve approved decisions, and update the version and status of affected documents. Mark unresolved decisions clearly; do not silently treat a proposal as settled.
+Keep this document set version-controlled. Record substantive decisions and changes in `DECISION_REGISTER.md`, preserve confirmed decisions, and update the version and status of affected documents. Mark unresolved decisions clearly; do not silently treat a proposal as settled. A repository commit or technical validation is not founder approval.
