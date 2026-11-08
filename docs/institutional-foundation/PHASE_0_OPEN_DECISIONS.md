@@ -1,7 +1,7 @@
 # Phase 0 — Open Decisions and Closure Items
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.4  
+**Version:** 0.5  
 **Status:** Initial founding-direction decisions recorded; closure review pending
 
 ## Confirmed decisions
@@ -40,7 +40,7 @@ See `D-005_INSTITUTIONAL_AMBITION_DECISION.md`.
 - [ ] Confirm proposed structures and future activities are not described as existing or approved.
 - [x] Identify legal, tax, education-regulatory and professional questions requiring external advice; see `PHASE_0_FINAL_REVIEW.md`.
 - [ ] Record unresolved matters as explicit post-Phase-0 work.
-- [ ] Obtain the founder's explicit approval of the consolidated Phase 0 package.
+- [ ] Obtain the founder's explicit approval of the consolidated Phase 0 package; the decision is to be recorded in `PHASE_0_FOUNDER_APPROVAL.md`.
 
 Phase 0 closure does not mean that the institution is legally established, accredited, authorised to award qualifications, or ready to enrol learners. The founding direction and boundaries have been documented and are presented for explicit founder review and approval as a basis for any separately authorised next steps; approval has not yet been recorded.
 

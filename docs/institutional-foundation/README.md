@@ -3,7 +3,7 @@
 **Project:** The School of Engineering & Technology  
 **Jurisdictional focus:** South Africa  
 **Phase:** 0 — Institutional Foundation  
-**Version:** 0.5 (working draft)  
+**Version:** 0.6 (working draft)  
 **Status:** Founding-direction decisions recorded; Phase 0 review and founder approval remain pending  
 **Last reviewed:** 2026-11-08  
 **Approval authority:** Founder — consolidated Phase 0 foundation approval pending
@@ -27,7 +27,8 @@ The proposed [Document Control Standard](DOCUMENT_CONTROL_STANDARD.md) describes
 7. **[Accessibility & Inclusion](ACCESSIBILITY_AND_INCLUSION.md)** — records foundational design commitments and implementation matters that remain pending.
 8. **[Educational Philosophy](EDUCATIONAL_PHILOSOPHY.md)**, **[Academic Architecture](ACADEMIC_ARCHITECTURE.md)**, **[Governance Framework](GOVERNANCE_FRAMEWORK.md)**, **[Institutional Mandate](INSTITUTIONAL_MANDATE.md)** and **[Founding Charter](FOUNDING_CHARTER.md)** — supporting foundational documents; read their status labels and decision boundaries.
 9. **[Phase 0 Final Review](PHASE_0_FINAL_REVIEW.md)** — consolidated consistency findings, professional-advice questions, corrections made, and remaining items for founder consideration. This review is not itself approval.
-10. **[Document Control Standard](DOCUMENT_CONTROL_STANDARD.md)** — proposed metadata, version and approval-record convention.
+10. **[Phase 0 Founder Approval](PHASE_0_FOUNDER_APPROVAL.md)** — presents D-001 through D-005 for the founder's formal decision (approve, approve with conditions, or return for revision). No founder decision is recorded until the founder completes its decision and record sections.
+11. **[Document Control Standard](DOCUMENT_CONTROL_STANDARD.md)** — proposed metadata, version and approval-record convention.
 
 ## Current confirmed decisions
 
