@@ -1,7 +1,7 @@
 # Academic Architecture
 
 **Institution:** The School of Engineering & Technology  
-**Version:** 0.1  
+**Version:** 0.2  
 **Status:** Proposed architecture — not an approved academic structure
 
 ## 1. Purpose
@@ -94,7 +94,7 @@ Research should be progressively integrated into learning. Early activities may 
 
 ## 8. Future schools
 
-A School of Politics & Governance has been identified as a possible future addition. It is not part of the initial academic structure approved by this document. Its mandate, academic fields, relationship to the institution and governance arrangements require separate design and approval.
+A School of Politics & Governance has been identified as a possible future addition. It is not part of the proposed initial focus, and this unapproved architecture does not authorise its establishment. Its mandate, academic fields, relationship to the institution and governance arrangements require separate design and approval.
 
 ## 9. Decisions required
 

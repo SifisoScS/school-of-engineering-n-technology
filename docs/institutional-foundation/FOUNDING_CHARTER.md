@@ -2,7 +2,7 @@
 
 **Institution:** The School of Engineering & Technology  
 **Jurisdictional focus:** South Africa  
-**Version:** 0.1  
+**Version:** 0.2  
 **Status:** Preliminary working draft — not yet ratified
 
 ## 1. Founding intent
@@ -65,11 +65,11 @@ The following principles are proposed for further development and ratification:
 This charter does not settle:
 
 - the institution's final legal form or ownership arrangements;
-- whether it will operate on a commercial, non-profit or hybrid basis;
-- admission and access rules;
+- the legal implementation of the hybrid commercial and public-benefit direction recorded in D-003, including any entity, ownership, tax or operating arrangements;
+- detailed admissions and access rules; D-004 records the layered-access direction, while programme-specific requirements and policies remain open;
 - the academic and qualification framework;
 - accreditation, registration or professional recognition pathways;
-- the final institutional structure and future schools;
+- the detailed institutional structure and approval of future schools; D-005 records a multidisciplinary long-term ambition, not authority to establish additional schools;
 - detailed governance powers and appointment processes; or
 - the timing, location and funding of a physical campus.
 

@@ -3,7 +3,7 @@
 **Project:** The School of Engineering & Technology  
 **Jurisdictional focus:** South Africa  
 **Phase:** 0 — Institutional Foundation  
-**Version:** 0.3 (working draft)  
+**Version:** 0.4 (working draft)  
 **Status:** Founding-direction decisions recorded; Phase 0 review remains
 
 ## Purpose
@@ -20,6 +20,7 @@ This directory contains the Phase 0 founding documents for the proposed independ
 6. **[Institutional Identity](INSTITUTIONAL_IDENTITY.md)** and **[Institutional Evolution](INSTITUTIONAL_EVOLUTION.md)** — describe the proposed institutional identity and indicative long-term direction without implying that future capabilities exist or are approved.
 7. **[Accessibility & Inclusion](ACCESSIBILITY_AND_INCLUSION.md)** — records foundational design commitments and implementation matters that remain pending.
 8. **[Educational Philosophy](EDUCATIONAL_PHILOSOPHY.md)**, **[Academic Architecture](ACADEMIC_ARCHITECTURE.md)**, **[Governance Framework](GOVERNANCE_FRAMEWORK.md)**, **[Institutional Mandate](INSTITUTIONAL_MANDATE.md)** and **[Founding Charter](FOUNDING_CHARTER.md)** — supporting foundational documents; read their status labels and decision boundaries.
+9. **[Phase 0 Final Review](PHASE_0_FINAL_REVIEW.md)** — consolidated consistency findings, professional-advice questions, corrections made, and remaining items for founder consideration. This review is not itself approval.
 
 ## Current confirmed decisions
 

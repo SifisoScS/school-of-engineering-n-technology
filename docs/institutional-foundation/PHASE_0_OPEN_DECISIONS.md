@@ -1,7 +1,7 @@
 # Phase 0 — Open Decisions and Closure Items
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.3  
+**Version:** 0.4  
 **Status:** Initial founding-direction decisions recorded; closure review pending
 
 ## Confirmed decisions
@@ -34,15 +34,15 @@ See `D-005_INSTITUTIONAL_AMBITION_DECISION.md`.
 
 ## Phase 0 closure checklist
 
-- [ ] Integrate and verify the D-004 and D-005 decision documents.
-- [ ] Update the foundation README and reading sequence.
-- [ ] Review all foundation documents for consistency with D-001 to D-005.
+- [x] Integrate and verify the D-004 and D-005 decision documents.
+- [x] Update the foundation README and reading sequence.
+- [x] Review all foundation documents for consistency with D-001 to D-005; see `PHASE_0_FINAL_REVIEW.md` for findings and remaining corrections.
 - [ ] Confirm proposed structures and future activities are not described as existing or approved.
-- [ ] Identify legal, tax, education-regulatory and professional questions requiring external advice.
+- [x] Identify legal, tax, education-regulatory and professional questions requiring external advice; see `PHASE_0_FINAL_REVIEW.md`.
 - [ ] Record unresolved matters as explicit post-Phase-0 work.
 - [ ] Obtain the founder's explicit approval of the consolidated Phase 0 package.
 
-Phase 0 closure does not mean that the institution is legally established, accredited, authorised to award qualifications, or ready to enrol learners. It means the founding direction and boundaries have been documented and approved as a basis for separately authorised next steps.
+Phase 0 closure does not mean that the institution is legally established, accredited, authorised to award qualifications, or ready to enrol learners. The founding direction and boundaries have been documented and are presented for explicit founder review and approval as a basis for any separately authorised next steps; approval has not yet been recorded.
 
 ## Decision protocol
 
