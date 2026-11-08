@@ -4,6 +4,10 @@ A South African digital-first school concept for developing engineers, technolog
 
 ![Learners collaborating on an engineering project](assets/engineering-hero.png)
 
+## Institutional foundation — Phase 0
+
+The working foundation documents are in [`docs/institutional-foundation/`](docs/institutional-foundation/README.md). Their reading order, confirmed decisions D-001 and D-002, and current in-progress status are recorded in that directory's overview.
+
 ## Starting point
 
 This repository begins with a responsive, UI-only landing page for the proposed School of Engineering & Technology. It introduces the institution's digital-first learning approach, proposed engineering study areas, and long-term vision to grow from online and offline learning into a physical campus.
