@@ -1,113 +1,64 @@
 # Institutional Evolution
 
 **Institution:** The School of Engineering & Technology  
-**Version:** 0.1  
-**Status:** Long-term direction — indicative, not an approved delivery plan
+**Version:** 0.2  
+**Status:** Long-term direction — indicative, not an approved delivery plan  
+**Related decision:** D-005
 
 ## 1. Vision
 
-The institution is intended to begin as a digital-first educational school and, over time, develop the capacity and resources to establish a physical campus.
+The institution is intended to begin as a digital-first educational school and, over time, develop into a broader multidisciplinary education, research and innovation institution. Its long-term development may include a physical campus and additional schools.
 
-The evolution should preserve the founding educational philosophy while allowing the institution's capabilities, facilities and academic scope to grow responsibly.
+## 2. Stage 1 — Digital-first School of Engineering & Technology
 
-## 2. Stage 1 — Digital-first school
+Initial direction: establish institutional identity and foundational policies; develop the public website; design an online and offline learning platform; validate learner needs and access conditions; develop and test learning resources; establish academic quality processes; and investigate partnerships and regulatory pathways.
 
-Initial direction:
-
-- establish the institutional identity and foundational policies;
-- develop the public website;
-- design an online and offline learning platform;
-- validate learner needs and access conditions;
-- develop and test suitable learning resources;
-- establish academic quality processes; and
-- investigate appropriate partnerships and regulatory pathways.
-
-The current repository's landing page is a UI-only starting point. It is not a functioning learning management system.
+The current repository landing page is a UI-only starting point, not a functioning learning management system.
 
 ## 3. Stage 2 — Structured learning and practical capability
 
-Potential development:
+Potential development includes scoped learning pathways, practical projects and simulations, educator and learner-support processes, access to suitable practical facilities, evaluation of learning outcomes, and sustainable operating arrangements.
 
-- introduce carefully scoped learning pathways;
-- create practical projects and suitable simulations;
-- establish educator, assessment and learner-support processes;
-- develop partnerships for access to appropriate practical facilities;
-- evaluate learning quality and learner outcomes; and
-- establish sustainable operating and funding arrangements.
-
-Any programme requiring registration, accreditation or professional recognition must follow the applicable pathway before it is represented as such.
+Regulated programmes must follow applicable pathways before being represented as accredited or recognised.
 
 ## 4. Stage 3 — Research and institutional partnerships
 
-Potential development:
+Potential development includes research capability, collaboration with universities, industry, public institutions and communities, applied research addressing South African needs, research ethics and intellectual property processes, and evidence-based impact evaluation.
 
-- build research capability;
-- collaborate with universities, industry, public institutions and communities;
-- support applied research addressing South African needs;
-- develop appropriate research ethics and intellectual property processes; and
-- establish evidence-based methods for evaluating institutional impact.
-
-The scale of research activity must match the institution's actual capacity and approvals.
+Research activity must match actual capacity and approvals.
 
 ## 5. Stage 4 — Physical campus
 
-Long-term possibility:
+Long-term possibility: teaching and collaboration spaces, engineering workshops, appropriately equipped laboratories, research and prototyping facilities, learner support and library resources, and suitable safety and accessibility infrastructure.
 
-- teaching and collaboration spaces;
-- engineering workshops;
-- appropriately equipped laboratories;
-- research and prototyping facilities;
-- learner support and library resources; and
-- suitable safety, accessibility and operational infrastructure.
-
-A campus should only proceed after feasibility work covering location, land or premises, funding, infrastructure, staffing, safety, regulatory obligations and long-term operating costs.
-
-No location, opening date, campus size or funding commitment has been selected.
+Proceed only after feasibility work covering location, premises, funding, infrastructure, staffing, safety, regulation and operating costs. No location, opening date, size or funding commitment has been selected.
 
 ## 6. Stage 5 — Possible additional schools
 
-A School of Politics & Governance has been identified as a possible future addition.
+The long-term ambition is multidisciplinary. The first school remains the School of Engineering & Technology.
 
-Its potential areas may include political science, public administration, constitutional democracy, public policy, local government, public finance, international relations, leadership and institutional governance.
+A **School of Politics & Governance** has been identified as a possible future school. Potential areas may include political science, public administration, constitutional democracy, public policy, local government, public finance, international relations, leadership and institutional governance.
 
-This list is exploratory. The future school's mandate, academic independence, governance, programme structure and relationship to the engineering school require separate approval.
+This is exploratory. Its mandate, academic scope, governance, staffing, funding, programme approvals and timing require separate development and approval. No other additional school is currently approved.
 
 ## 7. Stage gates
 
-Progression between stages should depend on evidence, not aspiration alone. Each stage should have documented entry criteria, resources, risks, accountable owners and exit criteria.
-
-Possible gate questions include:
-
-- Is there demonstrated learner need?
-- Is the educational model working?
-- Are learning resources accurate and accessible?
-- Are qualified educators and appropriate facilities available?
-- Are legal and regulatory requirements understood and met?
-- Is funding sustainable?
-- Are learner safety, privacy and support adequately addressed?
-- Has the previous stage been evaluated?
+Progression should depend on evidence, not aspiration. Each stage needs documented entry criteria, resources, risks, accountable owners and exit criteria. Gate questions include demonstrated learner need, educational quality, accurate and accessible resources, qualified people and facilities, legal compliance, sustainable funding, learner safety and evaluation of the preceding stage.
 
 ## 8. Principles for expansion
 
-1. Do not expand the academic scope faster than quality systems can support.
+1. Do not expand academic scope faster than quality systems can support.
 2. Do not make accreditation or qualification claims without verification.
 3. Do not treat a website launch as proof of an operating school.
-4. Do not establish physical facilities without safety, financial and operational planning.
+4. Do not establish facilities without safety, financial and operational planning.
 5. Preserve offline access as a core design consideration.
-6. Evaluate each stage and record lessons before progressing.
+6. Evaluate each stage and record lessons.
+7. Require explicit institutional approval before establishing another school.
 
-## 9. Open decisions
+## 9. Open implementation decisions
 
-The institution has not yet approved:
-
-- target dates or budgets for any stage;
-- a campus location;
-- the number or names of future schools;
-- a research institute structure;
-- the funding model;
-- the partnership strategy; or
-- the conditions under which expansion is authorised.
+No target dates or budgets, campus location, additional school launch, research institute structure, funding arrangements, partnership strategy or expansion authority have been approved.
 
 ## 10. Approval status
 
-This document records a long-term direction for planning. It is not a funded project plan, construction commitment or approval to establish additional schools.
+This document records the long-term direction selected in D-005. It is not a funded project plan, construction commitment or approval to establish additional schools.

@@ -2,67 +2,51 @@
 
 **Name:** The School of Engineering & Technology  
 **Country focus:** South Africa  
-**Version:** 0.1  
-**Status:** Proposed identity
+**Version:** 0.2  
+**Status:** Proposed identity and long-term institutional direction
 
 ## 1. Institutional description
 
-The School of Engineering & Technology is a proposed independent, privately founded South African educational institution focused on developing engineers, technologists, innovators and capable problem-solvers through an integrated model of academic learning, practical application, research and independent thinking.
+The School of Engineering & Technology is the initial school of a proposed independent, privately founded South African educational institution. The wider institutional ambition is to develop into a multidisciplinary education, research and innovation institution.
+
+Its educational approach combines academic knowledge, practical application, research and independent thinking.
 
 ## 2. Institutional positioning
 
 The institution is intended to be:
 
 - **Independent:** founded and governed independently, subject to applicable law and regulation.
+- **Hybrid in direction:** pursuing a financially sustainable operating model alongside a defined public-benefit purpose; legal implementation remains undecided.
 - **Digital-first:** beginning with online and offline learning before progressing towards physical facilities.
-- **Practical:** connecting learning to projects, experimentation and real problems.
-- **Research-aware:** cultivating investigation, evidence, testing and knowledge creation.
-- **South African in focus:** responding to South African needs and contexts, with potential to expand its reach across Africa.
+- **Layered in access:** making foundational learning broadly accessible while applying transparent programme-specific requirements to structured learning.
+- **Practical and research-aware:** connecting learning to projects, investigation and real problems.
+- **South African in focus:** responding to South African needs and contexts, with potential to serve learners elsewhere in Africa.
+- **Multidisciplinary in long-term ambition:** beginning with engineering and technology, with a possible future School of Politics & Governance subject to separate approval.
 
-## 3. Initial and future scope
+## 3. Initial school
 
-### Initial school
+### School of Engineering & Technology
 
-**School of Engineering & Technology**
+Potential areas for future academic development include computer science and computing, software engineering, artificial intelligence, electrical and electronic engineering, mechanical engineering, civil engineering and the built environment, robotics and automation, telecommunications and networks, renewable energy, and industrial engineering.
 
-Potential areas for future academic development include:
+These are proposed areas, not approved departments or accredited programmes.
 
-- computer science and computing;
-- software engineering;
-- artificial intelligence;
-- electrical and electronic engineering;
-- mechanical engineering;
-- civil engineering and the built environment;
-- robotics and automation;
-- telecommunications and networks;
-- renewable energy; and
-- industrial engineering.
+## 4. Possible future school
 
-These are proposed areas of study, not approved departments or accredited programmes.
+A **School of Politics & Governance** has been identified as a possible future addition. Its mandate, academic scope, governance, programmes and launch conditions have not been approved.
 
-### Possible future expansion
+## 5. Intended learners and access
 
-A **School of Politics & Governance** has been identified as a future possibility. Its purpose, academic scope, independence, relationship to the institution and implementation timing remain undecided.
+Foundational learning resources are intended to be broadly accessible. Structured programmes may have transparent and proportionate prerequisites. Regulated programmes and qualifications must meet applicable statutory and accreditation requirements.
 
-## 4. Intended learners
+Detailed admissions, age, language, support and fee policies remain to be developed.
 
-The institution is being conceived for South Africans with varied educational, economic, geographical and technological circumstances.
-
-The final access model has not yet been decided. The institution must distinguish open access to learning resources from eligibility for specific programmes, assessments or regulated qualifications.
-
-## 5. Delivery identity
+## 6. Delivery identity
 
 The first stage is intended to provide online and offline learning. The future physical stage may include classrooms, engineering workshops, laboratories, research spaces and other facilities, subject to feasibility and regulatory requirements.
 
-## 6. Institutional language
+## 7. Institutional language
 
-Use language that accurately reflects the institution's current status.
+While it remains a proposal, prefer accurate descriptions such as "proposed independent educational institution", "digital-first institutional concept", "initial School of Engineering & Technology", "proposed areas of study" and "long-term multidisciplinary institutional ambition".
 
-Preferred descriptions while it remains a proposal:
-
-- "proposed educational institution";
-- "digital-first school concept";
-- "proposed areas of study"; and
-- "future physical campus vision".
-
-Do not imply that the institution is registered, accredited, operating a campus, offering approved qualifications or authorised to confer professional status unless those claims have been verified.
+Do not imply that the institution is registered, accredited, operating a campus, offering approved qualifications or authorised to confer professional status unless verified.

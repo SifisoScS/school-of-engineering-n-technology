@@ -1,72 +1,56 @@
-# Phase 0 — Open Decisions
+# Phase 0 — Open Decisions and Closure Items
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.2  
-**Status:** Active decision papers — D-001 to D-003 recorded
-
-This document gathers the remaining Phase 0 decisions. Options are prompts for consideration, not decisions already accepted.
+**Version:** 0.3  
+**Status:** Initial founding-direction decisions recorded; closure review pending
 
 ## Confirmed decisions
 
 | ID | Subject | Confirmed outcome |
 |---|---|---|
 | D-001 | Institutional independence | Independent, privately founded South African educational institution |
-| D-002 | Educational philosophy | Integrated approach combining academic knowledge, practical project-based learning, research and independent thinking |
-| D-003 | Legal and operating model | Hybrid commercial and public-benefit institutional direction; exact legal implementation remains open |
+| D-002 | Educational philosophy | Integrated academic knowledge, practical project-based learning, research and independent thinking |
+| D-003 | Legal and operating model | Hybrid commercial and public-benefit direction; legal implementation remains open |
+| D-004 | Learner access model | Layered access: broadly accessible foundational learning and programme-specific requirements for structured learning |
+| D-005 | Institutional ambition | Broader multidisciplinary education, research and innovation institution; Engineering & Technology first, possible future Politics & Governance school |
 
-## D-003 — Implementation boundary
+## D-003 — Legal implementation remains open
 
-The hybrid direction has been selected. The legal form and operating arrangements have not.
-
-The institution must compare viable single-entity and multi-entity structures, and any suitable alternative, through South African professional legal, tax, accounting and education-regulatory advice. No entity structure, tax status, public-benefit approval or implementation arrangement is authorised by the decision.
+The hybrid direction has been selected, but the legal form and operating arrangements have not. Compare viable single-entity and multi-entity structures, and any suitable alternative, through South African professional legal, tax, accounting and education-regulatory advice. No entity structure, tax status, public-benefit approval or implementation arrangement is authorised.
 
 See `D-003_HYBRID_MODEL_DECISION.md` and `LEGAL_AND_OPERATING_MODEL.md`.
 
-## D-004 — Learner access model
+## D-004 — Detailed access policy remains open
 
-**Question:** Who should be able to access learning, and what requirements should apply to structured programmes?
+The layered access direction has been selected. Detailed rules still need to be developed for access to open resources, admissions to structured programmes, prerequisites and bridging routes, recognition of prior learning, age and safeguarding, fees and financial support, disability accommodation, learner support, complaints and appeals.
 
-Possible directions:
+See `D-004_LEARNER_ACCESS_DECISION.md`.
 
-- **Open access:** learning resources and introductory study available broadly, without general academic entry barriers.
-- **Selective entry:** learners enter programmes only after meeting defined academic or other prerequisites.
-- **Layered access:** open foundational resources, with defined entry and progression requirements for structured or regulated programmes.
+## D-005 — Expansion approvals remain open
 
-Consider the distinction between access to information, participation in non-credit-bearing learning, admission to structured programmes, assessment, and entry to qualifications subject to external requirements.
+The broader institutional ambition has been selected. The Engineering & Technology school remains the initial school. The possible future School of Politics & Governance requires its own mandate, academic proposal, governance, feasibility assessment and approval. No other school, research institute, campus, qualification or expansion programme has been approved.
 
-Also consider recognition of prior learning, learner support, disability accommodation, language, device access, data costs and age-related safeguarding.
+See `D-005_INSTITUTIONAL_AMBITION_DECISION.md`.
 
-**Status:** Open. No admissions or access policy selected.
+## Phase 0 closure checklist
 
-## D-005 — Institutional ambition
+- [ ] Integrate and verify the D-004 and D-005 decision documents.
+- [ ] Update the foundation README and reading sequence.
+- [ ] Review all foundation documents for consistency with D-001 to D-005.
+- [ ] Confirm proposed structures and future activities are not described as existing or approved.
+- [ ] Identify legal, tax, education-regulatory and professional questions requiring external advice.
+- [ ] Record unresolved matters as explicit post-Phase-0 work.
+- [ ] Obtain the founder's explicit approval of the consolidated Phase 0 package.
 
-**Question:** What should the institution ultimately become?
-
-Possible directions:
-
-- **Specialised school:** concentrate on engineering and technology.
-- **Multidisciplinary institution:** develop multiple schools under one institutional identity.
-- **Broader education, research and innovation institution:** combine multiple schools with research, applied innovation and public leadership capabilities.
-
-The possible future School of Politics & Governance is a recorded long-term idea, not an approved school.
-
-Consider institutional focus, academic quality, governance complexity, financial sustainability, public purpose and the capacity required to operate multiple schools.
-
-**Status:** Open. No final institutional scope selected.
+Phase 0 closure does not mean that the institution is legally established, accredited, authorised to award qualifications, or ready to enrol learners. It means the founding direction and boundaries have been documented and approved as a basis for separately authorised next steps.
 
 ## Decision protocol
 
-For each decision:
+1. Review the relevant decision paper.
+2. Confirm the direction or request further investigation.
+3. Record the outcome and rationale.
+4. Update `DECISION_REGISTER.md`.
+5. Update affected foundation documents.
+6. Verify links, status labels and decision boundaries.
 
-1. Review the question and relevant background.
-2. Identify legal, academic, operational and financial implications.
-3. Select a direction or request further research.
-4. Record the rationale and any conditions.
-5. Update `DECISION_REGISTER.md`.
-6. Update affected foundation documents only after the decision is confirmed.
-
-## Phase 0 completion rule
-
-Phase 0 should not be marked complete until the foundational decisions have been made, the documents have been reviewed as a coherent set, and the institution has identified any legal or regulatory questions requiring professional advice.
-
-A decision to investigate a matter is not the same as approval to implement it.
+No later phase begins without explicit founder authorisation.

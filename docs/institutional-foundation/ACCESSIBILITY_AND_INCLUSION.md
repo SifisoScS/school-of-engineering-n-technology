@@ -1,107 +1,67 @@
 # Accessibility & Inclusion
 
 **Institution:** The School of Engineering & Technology  
-**Version:** 0.1  
-**Status:** Proposed design principles — detailed policy pending
+**Version:** 0.2  
+**Status:** Foundational direction confirmed; detailed policy pending  
+**Related decision:** D-004
 
 ## 1. Purpose
 
 The institution intends to reduce avoidable barriers to learning for people in South Africa who may face constraints relating to connectivity, devices, geography, cost, prior educational opportunity, language or disability.
 
-The final admissions and eligibility model remains open. Accessibility of learning resources should not be confused with automatic eligibility for every programme or regulated qualification.
+The confirmed access direction is layered: foundational learning should be broadly accessible, while structured programmes may apply transparent and relevant entry and progression requirements.
 
-## 2. Foundational commitments
+## 2. Layered access model
 
-The learning experience should aim to be:
+The institution should distinguish between:
 
-- accessible across a range of devices;
-- usable with limited or intermittent internet access;
-- designed for different levels of prior knowledge;
-- clear and understandable;
-- inclusive of learners with disabilities;
-- respectful of language and cultural diversity; and
-- transparent about costs, requirements and limitations.
+1. **Open foundational learning:** introductory and foundational resources intended to be accessible as broadly as reasonably possible.
+2. **Structured learning:** organised programmes with published learning expectations, prerequisites and completion requirements where appropriate.
+3. **Advanced or specialist programmes:** programmes that may require demonstrated prior knowledge, practical competence, experience or other relevant prerequisites.
+4. **Regulated programmes and qualifications:** programmes whose admission, delivery, assessment or award requirements are governed by applicable law, registration, accreditation or professional requirements.
 
-## 3. Offline-first delivery
+Open access to a resource does not automatically confer admission to every programme or eligibility for a regulated qualification.
 
-The digital learning environment should be designed to support, where technically and pedagogically appropriate:
+## 3. Accessibility commitments
 
-- downloadable learning materials;
-- locally available lessons and reference resources;
-- progress saved on the learner's device;
-- synchronisation when a connection becomes available;
-- low-bandwidth pages and media alternatives;
-- clear indication of which resources are available offline; and
-- safe handling of conflicts when locally stored progress is synchronised.
+The learning experience should aim to be accessible across devices, usable with limited or intermittent internet, designed for different levels of prior knowledge, clear, inclusive of learners with disabilities, respectful of language diversity, and transparent about costs and requirements.
 
-Offline capability should be tested on realistic devices and network conditions. Do not promise offline functionality until it has been implemented and verified.
+## 4. Offline-first delivery
 
-## 4. Device and connectivity considerations
+The digital environment should support, where appropriate, downloadable materials, locally available lessons, locally saved progress, synchronisation when connected, low-bandwidth alternatives, clear offline availability indicators and safe synchronisation conflict handling.
 
-Design and testing should include:
+Offline capability must be tested on realistic devices and network conditions. Do not promise functionality until implemented and verified.
 
-- entry-level Android devices;
-- smaller screens and varied screen resolutions;
-- older but supported browsers;
-- limited data and slower connections;
-- interrupted downloads and reconnection;
-- shared-device scenarios; and
-- alternatives for learners without regular access to a personal computer.
+## 5. Device and connectivity
 
-The institution should investigate practical access arrangements, but no device loan, data subsidy or physical access programme is promised by this document.
+Design and testing should include entry-level Android devices, smaller screens, supported older browsers, limited data, slower connections, interrupted downloads, shared-device scenarios and learners without regular computer access.
 
-## 5. Disability and usability
+No device loan, data subsidy or physical access programme is promised by this document.
 
-The platform and learning materials should be designed with recognised accessibility principles in mind. The implementation team should define and test measurable requirements for:
+## 6. Disability and usability
 
-- keyboard navigation;
-- screen-reader compatibility;
-- semantic structure and headings;
-- colour contrast;
-- text resizing and readable layouts;
-- captions and transcripts for audio-visual material;
-- alternatives to colour-only information;
-- accessible forms and assessments; and
-- reduced-motion preferences.
+Define and test requirements for keyboard navigation, screen-reader compatibility, semantic structure, colour contrast, text resizing, captions and transcripts, accessible forms and assessments, and reduced-motion preferences. Select and document conformance targets before making public claims.
 
-Accessibility conformance targets and testing procedures must be selected and documented before public claims are made.
+## 7. Language and context
 
-## 6. Language and context
+Consider South Africa's linguistic diversity. Maintain technical accuracy in translations and adaptations. Plain-language explanations, glossaries and reviewed multilingual resources may help learners enter unfamiliar subjects. Initial languages and translation-review processes remain open.
 
-The institution should consider South Africa's linguistic diversity. Technical accuracy must be maintained when learning materials are translated or adapted. Plain-language explanations, glossaries and carefully reviewed multilingual resources may help learners enter unfamiliar subject areas.
+## 8. Entry, preparation and progression
 
-The language policy, initial languages and translation-review process remain to be decided.
+For structured programmes, entry requirements should be relevant to outcomes and level, transparent and proportionate. Investigate diagnostic assessment, bridging resources and recognition of prior learning where appropriate and lawful.
 
-## 7. Learning pathways and prior knowledge
+## 9. Fair treatment and learner support
 
-Foundational learning resources may help learners identify and address knowledge gaps. Programme entry requirements, prerequisite knowledge, recognition of prior learning and progression rules must be defined separately for each programme and in line with applicable requirements.
+Develop procedures for enquiries, reasonable accommodation, complaints and appeals, discrimination concerns, safeguarding where children or vulnerable learners are involved, and referral to external support where needed.
 
-## 8. Fair treatment and learner support
+## 10. Privacy
 
-The institution should develop clear procedures for:
+Collect only information necessary for a defined purpose. Explain what is collected, why, how it is protected and how long it is retained. Assess the platform and institutional processes against applicable South African privacy requirements.
 
-- learner enquiries and support;
-- reasonable accommodation;
-- complaints and appeals;
-- harassment and discrimination concerns;
-- safeguarding where children or vulnerable learners are involved; and
-- referral to appropriate external support where the institution cannot provide it.
+## 11. Open implementation matters
 
-The details must be developed before the institution begins serving learners.
+Detailed admissions, age, fees, bursary, device support, language, accessibility conformance and learner-support policies remain to be designed and approved.
 
-## 9. Privacy and data minimisation
+## 12. Approval status
 
-Collect only information that is necessary for a clearly defined purpose. Explain what information is collected, why it is needed, how it is protected and how long it is retained. The eventual platform and institutional processes must be assessed against applicable South African privacy requirements.
-
-## 10. Open decisions
-
-- Who may access free learning resources?
-- What are the admissions rules for structured programmes?
-- Will the institution provide bursaries, devices or data support?
-- Which languages will be supported initially?
-- What accessibility standard and conformance target will be adopted?
-- What learner-support services can be sustainably provided?
-
-## 11. Approval status
-
-This document sets proposed design commitments. It is not an adopted accessibility policy and does not claim that the current website or future platform already meets these requirements.
+This document records foundational design commitments. It is not an adopted operational policy and does not claim that the current website or future platform already meets these requirements.

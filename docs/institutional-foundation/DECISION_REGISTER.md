@@ -1,54 +1,53 @@
 # Phase 0 — Decision Register
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.2  
-**Status:** Active working register
-
-This register records confirmed founding decisions and prevents proposals from being mistaken for approved institutional policy.
+**Version:** 0.3  
+**Status:** Initial founding-direction decisions recorded; foundation review remains
 
 ## Confirmed decisions
 
 | ID | Decision | Outcome | Status |
 |---|---|---|---|
 | D-001 | Institutional independence | Independent, privately founded South African educational institution | Confirmed |
-| D-002 | Educational philosophy | Integrated approach combining academic knowledge, practical project-based learning, research and independent thinking | Confirmed |
+| D-002 | Educational philosophy | Integrated academic knowledge, practical project-based learning, research and independent thinking | Confirmed |
 | D-003 | Legal and operating model | Hybrid commercial and public-benefit institutional direction | Direction confirmed; legal implementation open |
+| D-004 | Learner access model | Layered access: broadly accessible foundational learning, with transparent programme-specific requirements for structured learning | Direction confirmed; detailed policy open |
+| D-005 | Institutional ambition | Broader multidisciplinary education, research and innovation institution; Engineering & Technology first, Politics & Governance as a possible future school | Direction confirmed; expansion approvals open |
 
-## D-003 clarification
+## Decision boundaries
 
-The hybrid direction is selected. The exact legal form, number of entities, ownership/control arrangements, tax position, public-benefit status and operating agreements have not been selected or approved.
+### D-003 — Hybrid model
 
-A professional South African legal, tax, accounting and education-regulatory assessment is required before implementation. See:
+The hybrid commercial and public-benefit direction is selected. The exact legal form, number of entities, ownership/control arrangements, tax position, public-benefit status and operating agreements have not been selected or approved. Professional South African legal, tax, accounting and education-regulatory assessment is required before implementation.
 
-- `D-003_HYBRID_MODEL_DECISION.md`
-- `LEGAL_AND_OPERATING_MODEL.md`
+### D-004 — Layered access
 
-## Open decisions
+Foundational learning resources are intended to be broadly accessible. Structured programmes may set transparent, relevant and proportionate entry and progression requirements. Regulated programmes and qualifications must follow applicable statutory and accreditation requirements. Detailed admissions, age, fee, bursary and recognition-of-prior-learning policies remain open.
 
-| ID | Decision | Current status |
-|---|---|---|
-| D-004 | Learner access model | Open — admissions, prerequisites and open-access boundaries are not yet defined |
-| D-005 | Institutional ambition | Open — scope and structure of future schools and institutional bodies require confirmation |
-| D-006 | Academic and qualification framework | Open — to be developed with regulatory requirements in view |
-| D-007 | Governance model | Open — authority, oversight and accountability arrangements require design |
-| D-008 | Physical campus | Open — location, facilities, funding and timing are not determined |
+### D-005 — Broader institutional ambition
 
-## Recorded long-term direction
+The long-term direction is a multidisciplinary education, research and innovation institution. The School of Engineering & Technology remains the first school. A future School of Politics & Governance is an identified possibility, not an approved launch. No additional school, research institute, campus, qualification or expansion budget is authorised by D-005.
+
+## Other recorded long-term directions
 
 - Begin with a digital-first model supporting online and offline learning.
 - Develop the School of Engineering & Technology first.
-- Consider a future physical campus.
-- Consider a future School of Politics & Governance.
+- Consider a future physical campus, subject to feasibility and approvals.
+- Consider a future School of Politics & Governance, subject to separate approval.
 
-These are directions for planning, not evidence that the future stages have been approved, funded or implemented.
+## Remaining foundation work
+
+The five initial founding-direction decisions have been recorded. Phase 0 still requires a coherent document review, resolution of inconsistencies, identification of legal and regulatory questions requiring professional advice, and explicit founder approval of the resulting foundation package.
+
+Detailed policies, programme designs, legal implementation and platform development are subsequent work and are not authorised merely by recording these directions.
 
 ## Decision control
 
 1. Give each substantive decision a unique ID.
-2. Record the decision, rationale, date and status.
+2. Record the decision, rationale and status.
 3. Do not silently rewrite confirmed decisions.
 4. If a confirmed decision changes, record the change and its reason.
-5. Keep unresolved matters explicitly marked as open.
+5. Keep implementation details and unresolved matters explicitly marked as open.
 6. Update affected foundation documents when a decision is approved.
 
 ## Version history
@@ -56,4 +55,5 @@ These are directions for planning, not evidence that the future stages have been
 | Version | Change |
 |---|---|
 | 0.1 | Initial foundation decisions D-001 and D-002 recorded |
-| 0.2 | D-003 hybrid commercial and public-benefit direction confirmed; legal implementation explicitly left open |
+| 0.2 | D-003 hybrid commercial and public-benefit direction confirmed; legal implementation left open |
+| 0.3 | D-004 layered learner access and D-005 broader institutional ambition recorded |
