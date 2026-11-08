@@ -131,4 +131,4 @@ The following remain open:
 
 This document is an architectural proposal for discussion. It is not a delivery plan, programme approval or authority to enrol learners.
 
-Phase 0 remains open pending founder review and explicit approval of the consolidated institutional foundation. No Phase 1 work or implementation is authorised by this document. Any future academic structure must be reviewed and approved through a properly established governance process before being treated as policy.
+Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). This document remains an unapproved academic-structure proposal. No Phase 1 work or implementation is authorised by this document. Any future academic structure must be reviewed and approved through a properly established governance process before being treated as policy.

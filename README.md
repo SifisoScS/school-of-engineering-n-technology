@@ -6,7 +6,7 @@ A South African digital-first school concept for developing engineers, technolog
 
 ## Institutional foundation — Phase 0
 
-The working foundation documents are in [`docs/institutional-foundation/`](docs/institutional-foundation/README.md). The current decision register records founding directions D-001 through D-005; the legal implementation, detailed policies and Phase 0 founder approval remain open.
+The working foundation documents are in [`docs/institutional-foundation/`](docs/institutional-foundation/README.md). The current decision register records founding directions D-001 through D-005; the founder approved and closed Phase 0 on 8 November 2026. Legal implementation and detailed policies remain open, and Phase 1 is not authorised.
 
 ## Starting point
 

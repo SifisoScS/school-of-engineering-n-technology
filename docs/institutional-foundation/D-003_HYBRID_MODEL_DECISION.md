@@ -108,4 +108,4 @@ Listing these assessments does not authorise commissioning advisers, incurring c
 **Ownership and control:** Not yet selected.  
 **Tax and public-benefit status:** Not determined.  
 **Implementation authority:** Not granted by this decision.  
-**Phase status:** Phase 0 remains in progress. No Phase 1 work is authorised by D-003.
+**Phase status:** Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). No Phase 1 work is authorised by D-003.

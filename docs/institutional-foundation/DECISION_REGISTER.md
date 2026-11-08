@@ -1,10 +1,10 @@
 # Phase 0 — Decision Register
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.4  
-**Status:** Founding-direction decisions recorded; Phase 0 founder approval remains pending  
+**Version:** 0.5  
+**Status:** Founding-direction decisions recorded; Phase 0 approved and closed by the founder on 2026-11-08  
 **Last reviewed:** 2026-11-08  
-**Approval authority:** Founder — approval of the consolidated Phase 0 foundation has not yet been recorded  
+**Approval authority:** Founder — consolidated Phase 0 foundation approved 2026-11-08 (Outcome A; see `PHASE_0_FOUNDER_APPROVAL.md`)  
 **Related decisions:** D-001, D-002, D-003, D-004, D-005
 
 ## Confirmed decisions
@@ -66,7 +66,7 @@ These remain proposed or long-term directions; they are not evidence that the re
 
 ## Remaining foundation work
 
-The five initial founding-direction decisions have been recorded. Phase 0 still requires a coherent document review, resolution of inconsistencies, identification of legal and regulatory questions requiring professional advice, and explicit founder approval of the resulting foundation package.
+The five initial founding-direction decisions have been recorded, and the founder approved the consolidated Phase 0 foundation package on 8 November 2026 (Outcome A; see `PHASE_0_FOUNDER_APPROVAL.md`). That approval closes Phase 0 as a founding-direction and documentation phase only. The matters it excludes, and the professional-advice and regulatory questions it leaves open, are listed in Sections 4 and 5 of that document.
 
 Detailed policies, programme designs, legal implementation and platform development are subsequent work and are not authorised merely by recording these directions.
 
@@ -94,3 +94,4 @@ D-001 through D-005 are recorded as founder-selected directions in the Phase 0 d
 | 0.2 | D-003 hybrid commercial and public-benefit direction confirmed; legal implementation left open |
 | 0.3 | D-004 layered learner access and D-005 broader institutional ambition recorded |
 | 0.4 | Added concise rationale summaries, provenance clarification, review metadata and explicit separation of decision date from review date |
+| 0.5 | Recorded founder approval of the consolidated Phase 0 foundation (Outcome A, 8 November 2026); D-001 to D-005 unchanged; Phase 1 remains unauthorised |

@@ -80,8 +80,8 @@ The following matters remain open and must not be inferred from this mandate:
 
 This document records a proposed founding mandate informed by D-001 through D-005. It is not a launch instruction, implementation plan, programme approval or authority to enrol learners.
 
-Phase 0 remains open pending founder review and explicit approval of the consolidated institutional foundation. No Phase 1 work or implementation is authorised by this document.
+Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). No Phase 1 work or implementation is authorised by this document.
 
 ## 10. Review
 
-This mandate should be reviewed alongside the Decision Register and the other Phase 0 foundation documents before the foundation is presented for founder approval. Any later substantive change must be recorded through the institution's adopted decision-control process.
+This mandate should be reviewed alongside the Decision Register and the other Phase 0 foundation documents; the consolidated foundation was approved by the founder on 8 November 2026. Any later substantive change must be recorded through the institution's adopted decision-control process.

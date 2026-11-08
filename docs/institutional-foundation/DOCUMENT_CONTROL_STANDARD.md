@@ -11,7 +11,7 @@
 
 This standard proposes a consistent way to identify the status, version, review history, approval authority and decision relationships of documents in `docs/institutional-foundation/`.
 
-It is a proposed control convention. It is not an adopted governance policy until the founder approves the consolidated Phase 0 foundation or separately approves this convention.
+It is a proposed control convention. It is not an adopted governance policy. The founder's Phase 0 approval of 8 November 2026 expressly leaves its adoption as a separate decision (see Section 5 of `PHASE_0_FOUNDER_APPROVAL.md`).
 
 ## 2. Required document metadata
 

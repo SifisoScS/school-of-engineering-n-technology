@@ -1,8 +1,8 @@
 # Phase 0 — Open Decisions and Closure Items
 
 **Project:** The School of Engineering & Technology  
-**Version:** 0.5  
-**Status:** Initial founding-direction decisions recorded; closure review pending
+**Version:** 0.6  
+**Status:** Phase 0 approved and closed by the founder on 2026-11-08; Phase 1 remains unauthorised
 
 ## Confirmed decisions
 
@@ -39,10 +39,10 @@ See `D-005_INSTITUTIONAL_AMBITION_DECISION.md`.
 - [x] Review all foundation documents for consistency with D-001 to D-005; see `PHASE_0_FINAL_REVIEW.md` for findings and remaining corrections.
 - [ ] Confirm proposed structures and future activities are not described as existing or approved.
 - [x] Identify legal, tax, education-regulatory and professional questions requiring external advice; see `PHASE_0_FINAL_REVIEW.md`.
-- [ ] Record unresolved matters as explicit post-Phase-0 work.
-- [ ] Obtain the founder's explicit approval of the consolidated Phase 0 package; the decision is to be recorded in `PHASE_0_FOUNDER_APPROVAL.md`.
+- [x] Record unresolved matters as explicit post-Phase-0 work; see Sections 4 and 5 of `PHASE_0_FOUNDER_APPROVAL.md`.
+- [x] Obtain the founder's explicit approval of the consolidated Phase 0 package; approved 8 November 2026 (Outcome A) and recorded in `PHASE_0_FOUNDER_APPROVAL.md`.
 
-Phase 0 closure does not mean that the institution is legally established, accredited, authorised to award qualifications, or ready to enrol learners. The founding direction and boundaries have been documented and are presented for explicit founder review and approval as a basis for any separately authorised next steps; approval has not yet been recorded.
+Phase 0 closure does not mean that the institution is legally established, accredited, authorised to award qualifications, or ready to enrol learners. The founding direction and boundaries have been documented and were approved by the founder on 8 November 2026 as a basis for any separately authorised next steps; see `PHASE_0_FOUNDER_APPROVAL.md`.
 
 ## Decision protocol
 

@@ -1,29 +1,30 @@
 # Phase 0 — Founder Review and Approval
 
-**Document status:** For founder consideration  
+**Document status:** Founder-approved — Phase 0 closure  
 **Institution:** The School of Engineering & Technology  
 **Repository:** `school-of-engineering-n-technology`  
 **Institutional foundation directory:** `docs/institutional-foundation/`  
-**Review baseline:** `4b7d0183a5e5bcb6502fbc7a9a4d70329fc42583`  
-**Approval status:** Pending — no founder approval is recorded by this document
+**Review baseline:** `844595d`  
+**Approval outcome:** Outcome A — Approved  
+**Approval date:** 8 November 2026
 
 ---
 
 ## 1. Purpose
 
-This document presents the Phase 0 founding direction for formal review by the founder.
+This document records the founder's formal review decision on the Phase 0 founding direction.
 
 Phase 0 establishes the institution's proposed identity, educational philosophy, broad institutional ambition, learner-access direction and intended legal/operating direction. It is a foundation-setting exercise. It does **not** establish that the institution is registered, accredited, authorised to award qualifications, ready to enrol learners, or approved to begin implementation.
 
-The founder should select one of the decision outcomes in Section 6. No outcome is assumed.
+The founder has approved the Phase 0 founding direction under Outcome A in Section 6. The approval is limited by the boundaries and unresolved matters set out in this document.
 
-## 2. Founding decisions presented for approval
+## 2. Founding decisions approved
 
-The following five decisions have been recorded during Phase 0. The summaries below are intended to make the proposed direction reviewable in one place. The detailed decision documents and the Decision Register remain the controlling records.
+The following five decisions are accepted as the institution's Phase 0 founding direction. The summaries below make the approved direction reviewable in one place. The detailed decision documents and the Decision Register remain the controlling records.
 
 ### D-001 — Institutional independence
 
-**Recorded direction:** Independent.
+**Approved direction:** Independent.
 
 The institution is intended to be an independently founded, privately founded South African educational institution.
 
@@ -33,7 +34,7 @@ This direction does not determine the final legal entity, registration route, ow
 
 ### D-002 — Educational philosophy
 
-**Recorded direction:** Integrated education combining academic knowledge, practical project-based learning, research and independent thinking.
+**Approved direction:** Integrated education combining academic knowledge, practical project-based learning, research and independent thinking.
 
 The intended learning cycle is:
 
@@ -42,7 +43,7 @@ The intended learning cycle is:
 3. Design possible solutions.
 4. Build and test.
 5. Evaluate results.
-6. Communicate and reflect.
+6. Reflect and communicate.
 
 This establishes an educational philosophy, not approved curricula, programmes, assessment rules, or qualification specifications.
 
@@ -50,7 +51,7 @@ This establishes an educational philosophy, not approved curricula, programmes, 
 
 ### D-003 — Legal and operating model
 
-**Recorded direction:** Hybrid commercial and public-benefit institution.
+**Approved direction:** Hybrid commercial and public-benefit institution.
 
 The institution's intended direction combines commercial sustainability with a public-benefit purpose.
 
@@ -62,7 +63,7 @@ Qualified South African legal, tax, accounting and education-regulatory advice i
 
 ### D-004 — Learner access model
 
-**Recorded direction:** Layered access.
+**Approved direction:** Layered access.
 
 The intended direction is:
 
@@ -77,7 +78,7 @@ This does not establish that every offering will be free, guarantee admission, r
 
 ### D-005 — Institutional ambition
 
-**Recorded direction:** A broader multidisciplinary education, research and innovation institution.
+**Approved direction:** A broader multidisciplinary education, research and innovation institution.
 
 The initial institutional focus remains the School of Engineering & Technology. A possible future School of Politics & Governance is exploratory and is not approved for launch. Other schools, institutes, departments, programmes, campuses or expansion schedules have not been approved.
 
@@ -85,9 +86,9 @@ Any future expansion requires its own needs assessment, academic proposal, gover
 
 **Reference:** `D-005_INSTITUTIONAL_AMBITION_DECISION.md`; `INSTITUTIONAL_MANDATE.md`; `INSTITUTIONAL_EVOLUTION.md`; `DECISION_REGISTER.md`.
 
-## 3. Institutional direction in practical terms
+## 3. Institutional direction approved in practical terms
 
-If the founder approves the Phase 0 direction, the institution's founding intent will be recorded as follows:
+The approved Phase 0 direction is:
 
 - **Independence:** an independently founded South African institution.
 - **Educational approach:** integrated academic, practical, research and independent-thinking development.
@@ -101,7 +102,7 @@ The current repository and landing-page work must not be represented as proof th
 
 ## 4. Matters not approved by Phase 0
 
-Even if Phase 0 is approved, the following remain outside its approval:
+Phase 0 approval does **not** approve:
 
 - A specific legal entity or group structure, including any company, trust, non-profit or public-benefit arrangement.
 - Registration, accreditation, statutory recognition or authority to award qualifications.
@@ -117,7 +118,7 @@ These matters require separate research, proposals, professional advice where ap
 
 ## 5. Conditions and open matters
 
-The founder should consider the following before approving Phase 0:
+The following remain matters for future work:
 
 1. **Professional advice:** Obtain qualified South African legal, tax, accounting and education-regulatory advice before choosing or implementing the legal and operating structure.
 2. **Regulatory pathway:** Establish which registration, accreditation, quality-assurance and professional requirements apply to each intended form of education or qualification before making commitments or public claims.
@@ -129,59 +130,37 @@ The Phase 0 documents identify issues for further work; they do not replace prof
 
 ## 6. Founder decision
 
-Select **one** outcome. Complete the record only when making the decision.
+**Outcome A — Approved**
 
-### Outcome A — Approve Phase 0
+**Founder decision:** Approve Phase 0.
 
-I approve the Phase 0 founding direction represented by D-001 through D-005 and the supporting institutional-foundation documents, subject to the boundaries and unresolved matters stated in this document.
+The founder has explicitly approved the Phase 0 founding direction represented by D-001 through D-005 and the supporting institutional-foundation documents, subject to the boundaries and unresolved matters stated in this document.
+
+- [x] **I approve Phase 0 on this basis.**
 
 This approval closes Phase 0 as a founding-direction and documentation phase only. It does not approve Phase 1, implementation, legal structuring, registration, accreditation, programmes, enrolment, qualifications, a campus or any other matter listed in Section 4.
 
-- [ ] **I approve Phase 0 on this basis.**
-
-### Outcome B — Approve Phase 0 with conditions
-
-I approve the Phase 0 founding direction represented by D-001 through D-005, subject to the conditions recorded below. Any condition affecting the meaning of a founding decision must be reflected in the relevant decision and supporting documents before Phase 0 is marked closed.
-
-- [ ] **I approve Phase 0 with the following conditions:**
-
-  1. 
-  2. 
-  3. 
-
-### Outcome C — Return Phase 0 for revision
-
-I do not approve Phase 0 at this time. The items below must be revised or clarified and returned for further review.
-
-- [ ] **I return Phase 0 for revision for the following reasons:**
-
-  1. 
-  2. 
-  3. 
-
 ## 7. Founder record
 
-| Field | Entry |
+| Field | Recorded entry |
 |---|---|
-| Founder decision | Approve / Approve with conditions / Return for revision |
-| Founder name | |
-| Signature or recorded confirmation | |
-| Decision date | |
-| Conditions or revision reference | |
-
-Do not fill in a decision, name, signature or date on the founder's behalf.
+| Founder decision | Approve Phase 0 — Outcome A |
+| Founder name | Sifiso Cyprian Shezi |
+| Signature or recorded confirmation | Explicit approval given in the ChatGPT conversation on 8 November 2026. This records the founder's confirmation; it is not represented as a handwritten or electronic signature. |
+| Decision date | 8 November 2026 |
+| Conditions or revision reference | Subject to the boundaries and unresolved matters in Sections 4, 5 and 8. |
 
 ## 8. Phase boundary and next authorisation
 
-A recorded approval under Outcome A or B may close Phase 0 once any required document updates and conditions have been completed and verified.
+This document records approval and closure of Phase 0.
 
 **Phase 1 remains unauthorised unless the founder separately gives explicit approval to begin it.** Phase 0 approval must not be interpreted as permission to start Phase 1 or to implement any legal, academic, operational or infrastructure proposal.
 
-A separate Phase 1 proposal should define its purpose, scope, deliverables, dependencies, risks, required decisions and approval gate before work begins.
+A separate Phase 1 proposal must define its purpose, scope, deliverables, dependencies, risks, required decisions and approval gate before work begins.
 
 ## 9. Supporting Phase 0 documents
 
-The founder should review this document together with the institutional-foundation collection, especially:
+The founder's review was based on the institutional-foundation collection, including:
 
 1. `DECISION_REGISTER.md`
 2. `INSTITUTIONAL_IDENTITY.md`
@@ -201,4 +180,4 @@ The founder should review this document together with the institutional-foundati
 
 ---
 
-**Control statement:** Until a founder decision is explicitly recorded and any required follow-up work is completed, Phase 0 approval remains pending. This document records a decision only when the founder completes and confirms the Founder Decision and Founder Record sections.
+**Control statement:** Phase 0 is approved and closed as a founding-direction and documentation phase. All matters expressly excluded from Phase 0 approval remain subject to separate research, professional advice where appropriate, and explicit approval. Phase 1 and implementation remain unauthorised.

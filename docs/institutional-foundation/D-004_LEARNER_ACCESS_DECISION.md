@@ -6,7 +6,7 @@
 **Status:** Direction confirmed for Phase 0 planning; detailed policy remains open  
 **Last reviewed:** 2026-11-08  
 **Decision provenance:** Founder-selected direction recorded in the Phase 0 decision history; the exact date of selection is not separately recorded in the current repository record  
-**Approval authority:** Founder — directional selection recorded; consolidated Phase 0 foundation approval pending  
+**Approval authority:** Founder — directional selection recorded; consolidated Phase 0 foundation approved 2026-11-08 (see `PHASE_0_FOUNDER_APPROVAL.md`)  
 **Related decisions:** D-001, D-002, D-003, D-005
 
 ## Decision
@@ -53,4 +53,4 @@ These are matters for future policy development and approval, not implementation
 **Regulated programmes:** Applicable statutory and accreditation requirements take precedence.  
 **Decision provenance:** Founder-selected direction recorded in Phase 0; exact selection date not separately recorded in the repository.  
 **Implementation:** Not authorised solely by this decision; detailed policies and programme approvals remain necessary.  
-**Phase status:** Phase 0 remains open; no Phase 1 authority is granted.
+**Phase status:** Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). No Phase 1 authority is granted.

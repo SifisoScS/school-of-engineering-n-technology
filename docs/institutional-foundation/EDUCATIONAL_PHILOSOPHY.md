@@ -4,7 +4,7 @@
 **Version:** 0.2  
 **Status:** Foundational direction confirmed; detailed framework to be developed  
 **Last reviewed:** 2026-11-08  
-**Approval authority:** Founder — consolidated Phase 0 foundation approval pending  
+**Approval authority:** Founder — consolidated Phase 0 foundation approved 2026-11-08 (Outcome A; see `PHASE_0_FOUNDER_APPROVAL.md`)  
 **Related decisions:** D-002, D-004
 
 ## 1. Selected approach
@@ -107,4 +107,4 @@ These require separate academic and regulatory work.
 
 D-002 confirms the educational direction only. This document is not a programme approval, curriculum approval, assessment policy, operational instruction or authority to enrol learners.
 
-Phase 0 remains open pending explicit founder approval of the consolidated institutional foundation. This philosophy does not authorise Phase 1 or implementation.
+Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). This philosophy does not authorise Phase 1 or implementation.

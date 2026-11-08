@@ -6,7 +6,7 @@
 **Status:** Direction confirmed for long-term planning; expansion approvals remain open  
 **Last reviewed:** 2026-11-08  
 **Decision provenance:** Founder-selected direction recorded in the Phase 0 decision history; the exact date of selection is not separately recorded in the current repository record  
-**Approval authority:** Founder — directional selection recorded; consolidated Phase 0 foundation approval pending  
+**Approval authority:** Founder — directional selection recorded; consolidated Phase 0 foundation approved 2026-11-08 (see `PHASE_0_FOUNDER_APPROVAL.md`)  
 **Related decisions:** D-001, D-002, D-003, D-004
 
 ## Decision
@@ -68,4 +68,4 @@ This is a statement of conditions for considering a future proposal. It is not a
 **Additional schools:** None approved.  
 **Physical campus:** Long-term possibility, not an approved project.  
 **Decision provenance:** Founder-selected direction recorded in Phase 0; exact selection date not separately recorded in the repository.  
-**Phase status:** Phase 0 remains open; no Phase 1 authority is granted.
+**Phase status:** Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). No Phase 1 authority is granted.

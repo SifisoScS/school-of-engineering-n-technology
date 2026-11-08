@@ -3,9 +3,9 @@
 **Name:** The School of Engineering & Technology  
 **Country focus:** South Africa  
 **Version:** 0.3  
-**Status:** Proposed identity and long-term institutional direction; Phase 0 founder approval pending  
+**Status:** Identity and long-term institutional direction approved as part of Phase 0 on 2026-11-08; implementation not authorised  
 **Last reviewed:** 2026-11-08  
-**Approval authority:** Founder — consolidated Phase 0 foundation approval pending  
+**Approval authority:** Founder — consolidated Phase 0 foundation approved 2026-11-08 (Outcome A; see `PHASE_0_FOUNDER_APPROVAL.md`)  
 **Related decisions:** D-001, D-002, D-003, D-004, D-005
 
 ## 1. Institutional description
@@ -68,4 +68,4 @@ Do not imply that the institution is registered, accredited, operating a campus,
 
 This document summarises the proposed institutional identity and the directions recorded in D-001 through D-005. It does not constitute founder approval of the complete Phase 0 foundation, approval to launch programmes or authority to begin Phase 1.
 
-Phase 0 remains open until the founder explicitly approves the consolidated foundation. No implementation authority is created by this document.
+Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`); Phase 1 remains unauthorised. No implementation authority is created by this document.

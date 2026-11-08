@@ -2,7 +2,7 @@
 
 **Project:** The School of Engineering & Technology  
 **Review date:** 2026-11-08  
-**Status:** Review prepared for founder consideration; Phase 0 approval and closure remain pending  
+**Status:** Review prepared for founder consideration; Phase 0 subsequently approved and closed by the founder on 2026-11-08 (see `PHASE_0_FOUNDER_APPROVAL.md`). The review text below is preserved as written.  
 **Reviewed baseline:** `29cb4958e5375539dd28bf7db400596f96f98c69`  
 **Scope:** The fifteen existing institutional-foundation documents and repository-root `README.md` at the reviewed baseline (sixteen documents); this review is an additional document.
 

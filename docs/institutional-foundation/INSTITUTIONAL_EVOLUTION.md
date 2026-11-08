@@ -84,4 +84,4 @@ The legal and operating direction in D-003 remains subject to professional asses
 
 This document records the long-term direction selected in D-005. It is not a funded project plan, construction commitment, delivery mandate or approval to establish additional schools.
 
-Phase 0 remains open pending founder review and explicit approval of the consolidated institutional foundation. No Phase 1 or implementation plan has been approved. No activity in this document should be treated as authorised work unless separately approved.
+Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). No Phase 1 or implementation plan has been approved. No activity in this document should be treated as authorised work unless separately approved.

@@ -4,7 +4,7 @@
 **Version:** 0.3  
 **Status:** Foundational design direction; detailed policies and implementation remain pending  
 **Last reviewed:** 2026-11-08  
-**Approval authority:** Founder — consolidated Phase 0 foundation approval pending  
+**Approval authority:** Founder — consolidated Phase 0 foundation approved 2026-11-08 (Outcome A; see `PHASE_0_FOUNDER_APPROVAL.md`)  
 **Related decisions:** D-002, D-004, D-005
 
 ## 1. Purpose
@@ -82,4 +82,4 @@ Technical capabilities must be distinguished from design intentions and must not
 
 This document records foundational design commitments. It is not an adopted operational policy and does not claim that the current website or future platform already meets these requirements.
 
-Phase 0 remains open pending explicit founder approval of the consolidated foundation. This document does not authorise Phase 1, platform implementation, learner enrolment or the launch of support services.
+Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). This document does not authorise Phase 1, platform implementation, learner enrolment or the launch of support services.

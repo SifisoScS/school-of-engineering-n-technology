@@ -116,4 +116,4 @@ No governance body, office or authority is established merely by appearing in th
 
 The framework remains a design proposal. It requires further development, appropriate South African legal and professional review, and explicit founder consideration. Any formal governance arrangements must be established through the legally appropriate process after the relevant decisions have been made.
 
-Phase 0 remains open. This document does not authorise Phase 1, incorporation, appointments, expenditure or institutional operations.
+Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). This document does not authorise Phase 1, incorporation, appointments, expenditure or institutional operations.
