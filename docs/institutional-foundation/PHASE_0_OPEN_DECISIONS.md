@@ -37,7 +37,7 @@ See `D-005_INSTITUTIONAL_AMBITION_DECISION.md`.
 - [x] Integrate and verify the D-004 and D-005 decision documents.
 - [x] Update the foundation README and reading sequence.
 - [x] Review all foundation documents for consistency with D-001 to D-005; see `PHASE_0_FINAL_REVIEW.md` for findings and remaining corrections.
-- [ ] Confirm proposed structures and future activities are not described as existing or approved.
+- [x] Confirm proposed structures and future activities are not described as existing or approved; confirmed by the Phase 0 closure integrity re-check of commit `790c6f2` on 8 November 2026, following Correction Set 03.
 - [x] Identify legal, tax, education-regulatory and professional questions requiring external advice; see `PHASE_0_FINAL_REVIEW.md`.
 - [x] Record unresolved matters as explicit post-Phase-0 work; see Sections 4 and 5 of `PHASE_0_FOUNDER_APPROVAL.md`.
 - [x] Obtain the founder's explicit approval of the consolidated Phase 0 package; approved 8 November 2026 (Outcome A) and recorded in `PHASE_0_FOUNDER_APPROVAL.md`.
