@@ -8,6 +8,8 @@ A South African digital-first school concept for developing engineers, technolog
 
 The working foundation documents are in [`docs/institutional-foundation/`](docs/institutional-foundation/README.md). The current decision register records founding directions D-001 through D-005; the founder approved and closed Phase 0 on 8 November 2026. Legal implementation and detailed policies remain open, and Phase 1 is not authorised.
 
+A proposed Phase 1 plan is in [`docs/phase-1/PHASE_1_PLAN.md`](docs/phase-1/PHASE_1_PLAN.md). It is not authorised, and Phase 1 has not started.
+
 ## Starting point
 
 This repository begins with a responsive, UI-only landing page for the proposed School of Engineering & Technology. It introduces the institution's digital-first learning approach, proposed engineering study areas, and long-term vision to grow from online and offline learning into a physical campus.
