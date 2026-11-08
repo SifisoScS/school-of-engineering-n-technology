@@ -10,6 +10,8 @@ The working foundation documents are in [`docs/institutional-foundation/`](docs/
 
 A proposed Phase 1 plan is in [`docs/phase-1/PHASE_1_PLAN.md`](docs/phase-1/PHASE_1_PLAN.md). It is not authorised, and Phase 1 has not started.
 
+The Phase 1 Execution Framework is in [`docs/phase-1/PHASE_1_EXECUTION_FRAMEWORK.md`](docs/phase-1/PHASE_1_EXECUTION_FRAMEWORK.md). The founder approved version 0.5 on 8 November 2026 as the execution methodology; the document's own status line shows its text as it stood at approval. Approving the framework does not authorise Phase 1.
+
 ## Starting point
 
 This repository begins with a responsive, UI-only landing page for the proposed School of Engineering & Technology. It introduces the institution's digital-first learning approach, proposed engineering study areas, and long-term vision to grow from online and offline learning into a physical campus.
