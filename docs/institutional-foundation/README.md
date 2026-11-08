@@ -44,6 +44,8 @@ See the [Decision Register](DECISION_REGISTER.md) and [Phase 0 Open Decisions](P
 
 These documents are working drafts, not a final constitution, legal opinion, registration record, accreditation decision or authority to offer recognised qualifications.
 
+Approval of the supporting documents accepts them as the recorded Phase 0 founding-direction foundation. Proposals, draft frameworks and policies within those documents retain their stated status and are not automatically ratified, adopted or authorised for implementation.
+
 The institution's legal form, registration pathway, qualification strategy, academic governance arrangements and regulatory obligations must be investigated and confirmed before the institution makes legal, accreditation or qualification claims.
 
 ## Change control

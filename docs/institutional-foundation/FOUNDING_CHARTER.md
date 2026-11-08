@@ -3,7 +3,7 @@
 **Institution:** The School of Engineering & Technology  
 **Jurisdictional focus:** South Africa  
 **Version:** 0.2  
-**Status:** Preliminary working draft — not yet ratified
+**Status:** Preliminary working draft — not yet ratified; Phase 0 approval does not ratify this charter (see Section 10)
 
 ## 1. Founding intent
 
@@ -83,4 +83,6 @@ No claim of accreditation, professional recognition, registration or authority t
 
 ## 10. Ratification
 
-This is a preliminary founding document. It becomes a formal institutional charter only after the founders have reviewed and approved its contents and confirmed the appropriate legal and governance process.
+This is a preliminary founding document. It becomes a formal institutional charter only after the founder has reviewed and approved its contents and the appropriate legal and governance process has been confirmed.
+
+Phase 0 was approved by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`). That approval does not itself ratify this charter, which remains subject to the legal and governance process described in this section. No such legal or governance process has been completed, and none should be represented as completed unless verified.

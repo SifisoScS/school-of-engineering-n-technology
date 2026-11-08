@@ -12,7 +12,7 @@ The working foundation documents are in [`docs/institutional-foundation/`](docs/
 
 This repository begins with a responsive, UI-only landing page for the proposed School of Engineering & Technology. It introduces the institution's digital-first learning approach, proposed engineering study areas, and long-term vision to grow from online and offline learning into a physical campus.
 
-The page is a visual starting point only. It does not provide course delivery, enrolment, student accounts, assessments, or other backend services. The study areas are proposed, and this project does not claim institutional or programme accreditation, professional recognition, or authority to award qualifications. South African regulatory requirements—including relevant CHE, SAQA and professional council requirements—must be considered before any qualification claims or offerings are made.
+The page is a visual starting point only. It currently publishes no contact address: the previous `hello@thesouthafricanschool.org` link was removed because that domain is not registered and could not receive mail. A contact address should be added only once the institution controls and monitors it. It does not provide course delivery, enrolment, student accounts, assessments, or other backend services. The study areas are proposed, and this project does not claim institutional or programme accreditation, professional recognition, or authority to award qualifications. South African regulatory requirements—including relevant CHE, SAQA and professional council requirements—must be considered before any qualification claims or offerings are made.
 
 ## Run locally
 

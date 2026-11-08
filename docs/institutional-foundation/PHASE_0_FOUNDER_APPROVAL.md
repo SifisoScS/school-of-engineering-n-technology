@@ -140,6 +140,8 @@ The founder has explicitly approved the Phase 0 founding direction represented b
 
 This approval closes Phase 0 as a founding-direction and documentation phase only. It does not approve Phase 1, implementation, legal structuring, registration, accreditation, programmes, enrolment, qualifications, a campus or any other matter listed in Section 4.
 
+Approval of the supporting documents accepts them as the recorded Phase 0 founding-direction foundation. Proposals, draft frameworks and policies within those documents retain their stated status and are not automatically ratified, adopted or authorised for implementation.
+
 ## 7. Founder record
 
 | Field | Recorded entry |

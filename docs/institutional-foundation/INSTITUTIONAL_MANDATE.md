@@ -84,4 +84,4 @@ Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_
 
 ## 10. Review
 
-This mandate should be reviewed alongside the Decision Register and the other Phase 0 foundation documents; the consolidated foundation was approved by the founder on 8 November 2026. Any later substantive change must be recorded through the institution's adopted decision-control process.
+This mandate should be reviewed alongside the Decision Register and the other Phase 0 foundation documents; the consolidated foundation was approved by the founder on 8 November 2026. Material changes should be recorded in the Decision Register, following any decision-control process the founder formally adopts.

@@ -91,6 +91,8 @@ A review, integration commit, link check, clean Git working tree or successful t
 
 ## 8. Current Phase 0 status
 
-D-001 through D-005 are recorded as confirmed founding directions. The consolidated Phase 0 foundation remains subject to explicit founder approval.
+D-001 through D-005 are recorded as confirmed founding directions. Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`).
+
+This standard itself remains a proposed convention. Its adoption is a separate founder decision and is not implied by the Phase 0 approval.
 
 This proposed standard does not itself approve the foundation, establish institutional governance, select a legal entity, approve programmes or authorise Phase 1.

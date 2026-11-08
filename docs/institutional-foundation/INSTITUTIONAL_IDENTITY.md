@@ -66,6 +66,6 @@ Do not imply that the institution is registered, accredited, operating a campus,
 
 ## 8. Phase and approval boundary
 
-This document summarises the proposed institutional identity and the directions recorded in D-001 through D-005. It does not constitute founder approval of the complete Phase 0 foundation, approval to launch programmes or authority to begin Phase 1.
+This document summarises the proposed institutional identity and the directions recorded in D-001 through D-005. It does not approve the launch of programmes or authorise Phase 1.
 
-Phase 0 was approved and closed by the founder on 8 November 2026 (see `PHASE_0_FOUNDER_APPROVAL.md`); Phase 1 remains unauthorised. No implementation authority is created by this document.
+This document is not itself the founder approval instrument. Approval of the Phase 0 founding direction is recorded in `PHASE_0_FOUNDER_APPROVAL.md`. Phase 1 remains unauthorised, and no implementation authority is created by this document.

@@ -43,7 +43,7 @@ These are ambitions, not claims that the capabilities currently exist.
 ## Expansion principles
 
 1. **Academic coherence:** every school must have a clear purpose and appropriate standards.
-2. **Institutional integrity:** new schools must align with the founding charter and governance framework.
+2. **Institutional integrity:** new schools must align with the founding charter and governance framework once these have been ratified or adopted; both currently remain drafts.
 3. **Evidence of need:** expansion should respond to demonstrated educational or societal needs.
 4. **Capacity before scale:** qualified people, resources, governance and sustainable funding must exist before launch.
 5. **Regulatory compliance:** activities and programmes must meet applicable requirements.
@@ -56,7 +56,7 @@ This decision does not establish a university or confer university status, appro
 
 ## Stage-gated expansion
 
-A proposed additional school requires a documented mandate and needs assessment, academic and programme proposal, governance plan, qualified leadership and educators, regulatory assessment, financial and operational feasibility, learner safety and support arrangements, and explicit approval through the adopted governance process.
+A proposed additional school requires a documented mandate and needs assessment, academic and programme proposal, governance plan, qualified leadership and educators, regulatory assessment, financial and operational feasibility, learner safety and support arrangements, and explicit approval through an appropriate governance process once such a process has been formally adopted.
 
 This is a statement of conditions for considering a future proposal. It is not an approved expansion procedure or current implementation plan.
 
